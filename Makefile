@@ -1,12 +1,14 @@
 SITE=site
 MARKDOWN=node_modules/.bin/commonmark
-SOURCES=$(wildcard *.md)
+PAGES=pages
+SOURCES=$(wildcard $(PAGES)/*.md)
+BASENAMES=$(notdir $(SOURCES))
 
-all: $(addprefix $(SITE)/,$(SOURCES:.md=.html)) $(SITE)/styles.css
+all: $(addprefix $(SITE)/,$(BASENAMES:.md=.html)) $(SITE)/styles.css
 
-$(SITE)/%.html: top.html bottom.html %.md.meta %.md.content | $(MARKDOWN) $(SITE)
-	sed "s/TITLE/$(shell fgrep 'title: ' $*.md.meta | sed 's/title: //')/" top.html > $@
-	$(MARKDOWN) $*.md.content >> $@
+$(SITE)/%.html: top.html bottom.html $(PAGES)/%.md.meta $(PAGES)/%.md.content | $(MARKDOWN) $(SITE)
+	sed "s/TITLE/$(shell fgrep 'title: ' $(PAGES)/$*.md.meta | sed 's/title: //')/" top.html > $@
+	$(MARKDOWN) $(PAGES)/$*.md.content >> $@
 	sed "s/BASENAME/$*/" bottom.html >> $@
 
 %.md.content: %.md
