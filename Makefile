@@ -7,7 +7,7 @@ all: $(addprefix $(SITE)/,$(SOURCES:.md=.html)) $(SITE)/styles.css
 $(SITE)/%.html: top.html bottom.html %.md.meta %.md.content | $(MARKDOWN) $(SITE)
 	sed "s/TITLE/$(shell fgrep 'title: ' $*.md.meta | sed 's/title: //')/" top.html > $@
 	$(MARKDOWN) $*.md.content >> $@
-	cat bottom.html >> $@
+	sed "s/BASENAME/$*/" bottom.html >> $@
 
 %.md.content: %.md
 	csplit --elide-empty-files --suppress-matched --silent $< /---/ '{*}'
