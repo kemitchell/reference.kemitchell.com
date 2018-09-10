@@ -1,15 +1,15 @@
 ---
 title: Open Source IPOs
 ---
-# VA Linux
-# Red Hat
-# Andover.net
-# Cobalt Networks
-# Caldera
-# Pivotal Software
-# Cloudera
-# MongoDB
-# Elastic
-# Hortonworks
-# Pivotal
-# MuleSoft
+- Andover.net
+- Caldera
+- Cloudera
+- Cobalt Networks
+- Elastic
+- Hortonworks
+- MongoDB
+- MuleSoft
+- Pivotal
+- Pivotal Software
+- Red Hat
+- VA Linux
