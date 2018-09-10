@@ -3,8 +3,18 @@ MARKDOWN=node_modules/.bin/commonmark
 PAGES=pages
 SOURCES=$(wildcard $(PAGES)/*.md)
 BASENAMES=$(notdir $(SOURCES))
+TITLES=$(addprefix $(PAGES)/,$(BASENAMES:.md=.title))
 
-all: $(addprefix $(SITE)/,$(BASENAMES:.md=.html)) $(SITE)/styles.css
+all: $(addprefix $(SITE)/,$(BASENAMES:.md=.html)) $(SITE)/styles.css $(SITE)/index.html
+
+.INTERMEDIATE: $(PAGES)/index.md
+
+$(PAGES)/index.md: $(TITLES)
+	echo '---\ntitle: kemitchell’s Reference Pages\n---' > $@
+	for title in $(TITLES); do echo "- [$$(cat $$title)](./$$(basename $$title .title).html)" >> $@ ; done
+
+$(PAGES)/%.title: $(PAGES)/%.md.meta
+	fgrep 'title: ' $(PAGES)/$*.md.meta | sed 's/title: //' > $@
 
 $(SITE)/%.html: top.html bottom.html $(PAGES)/%.md.meta $(PAGES)/%.md.content | $(MARKDOWN) $(SITE)
 	sed "s/TITLE/$(shell fgrep 'title: ' $(PAGES)/$*.md.meta | sed 's/title: //')/" top.html > $@
