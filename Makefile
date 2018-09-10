@@ -10,7 +10,7 @@ all: $(addprefix $(SITE)/,$(BASENAMES:.md=.html)) $(SITE)/styles.css $(SITE)/ind
 .INTERMEDIATE: $(PAGES)/index.md
 
 $(PAGES)/index.md: $(TITLES)
-	echo '---\ntitle: kemitchell’s Reference Pages\n---' > $@
+	echo '---\ntitle: Reference Pages\n---' > $@
 	for title in $(TITLES); do echo "- [$$(cat $$title)](./$$(basename $$title .title).html)" >> $@ ; done
 
 $(PAGES)/%.title: $(PAGES)/%.md.meta
