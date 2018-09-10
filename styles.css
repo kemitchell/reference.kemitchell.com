@@ -11,3 +11,7 @@ body > header, body > main, body > footer {
 body > footer {
   text-align: right;
 }
+
+body > header > h1 {
+  font-size: 300%;
+}
