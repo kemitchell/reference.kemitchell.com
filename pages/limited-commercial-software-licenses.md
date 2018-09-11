@@ -5,3 +5,4 @@ title: Limited-Commercial-Use Public Software Licenses
 - Fair Source
 - Prosperity
 - Aladdin
+- CockroachDB Community License Agreement
