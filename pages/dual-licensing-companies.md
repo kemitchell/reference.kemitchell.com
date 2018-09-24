@@ -9,8 +9,10 @@ title: Dual-Licensing Companies
 - Digium (Asterisk)
 - Funambol
 - HWACI (SQLite)
+- Jaspersoft
 - MongoDB
 - MySQL AB (now Oracle) (MySQL)
+- OPC Foundation (UA)
 - Odoo
 - Oracle (Berkeley DB)
 - Particular Software (NServiceBus)
