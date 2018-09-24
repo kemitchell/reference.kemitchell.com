@@ -1,6 +1,7 @@
 ---
 title: Dual-Licensing Companies
 ---
+
 - Active Endpoints, Inc. (ActiveBPEL)
 - Artifex (Ghostscript)
 - Blue Spire, Inc. (Aurelia)
@@ -13,6 +14,7 @@ title: Dual-Licensing Companies
 - Odoo
 - Oracle (Berkeley DB)
 - Particular Software (NServiceBus)
+- ScientiaMobile (WURFL)
 - Sendmail, Inc.
 - Sleepcat (nor Oracle) (Berkeley DB)
 - SugarCRM (Sugar)
