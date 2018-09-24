@@ -1,20 +1,14 @@
 ---
 title: Dual-Licensing Companies
 ---
-
-# Dual-Licensing as Primary Business
-- Sendmail, Inc.
-- TrollTech AS (Qt)
-- MySQL AB (now Oracle) (MySQL)
-- Artifex (Ghostscript)
-- Oracle (Berkeley DB)
-- Sleepcat (nor Oracle) (Berkeley DB)
 - Active Endpoints, Inc. (ActiveBPEL)
+- Artifex (Ghostscript)
 - Blue Spire, Inc. (Aurelia)
-
-# Dual-Licensing as Secondary Business
-- MongoDB
-
-# To Categories
-- SugarCRM (Sugar)
 - Digium (Asterisk)
+- MongoDB
+- MySQL AB (now Oracle) (MySQL)
+- Oracle (Berkeley DB)
+- Sendmail, Inc.
+- Sleepcat (nor Oracle) (Berkeley DB)
+- SugarCRM (Sugar)
+- TrollTech AS (Qt)
