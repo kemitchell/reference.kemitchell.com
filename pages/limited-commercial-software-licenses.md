@@ -8,3 +8,5 @@ title: Limited-Commercial-Use Public Software Licenses
 - CockroachDB Community License Agreement
 - [The Elastic License](https://github.com/elastic/elasticsearch/blob/0d8aa7527e242fbda9d84867ab8bc955758eebce/licenses/ELASTIC-LICENSE.txt)
 - [Qabel](https://github.com/Qabel/qabel-desktop/blob/master/LICENSE)
+- [La Fabrique des Mobilités "Fab Mob" Reciprocal Licence](http://wiki.p2pfoundation.net/Fab_Mob_Reciprocal_License_for_the_Legal_Contractualisation_of_Commons#APPENDIX_II:_LA_FABRIQUE_DES_MOBILIT.C3.89S_RECIPROCAL_LICENCE)
+- [Peer Production License](http://wiki.p2pfoundation.net/Peer_Production_License#LICENSE)
