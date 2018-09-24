@@ -7,7 +7,7 @@ TITLES=$(addprefix $(PAGES)/,$(BASENAMES:.md=.title))
 
 all: $(addprefix $(SITE)/,$(BASENAMES:.md=.html)) $(SITE)/styles.css $(SITE)/index.html
 
-.INTERMEDIATE: $(PAGES)/index.md
+.INTERMEDIATE: $(PAGES)/index.md $(TITLES)
 
 $(PAGES)/index.md: $(TITLES)
 	echo '---\ntitle: Reference Pages\n---' > $@
