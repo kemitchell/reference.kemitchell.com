@@ -5,10 +5,13 @@ title: Dual-Licensing Companies
 - Artifex (Ghostscript)
 - Blue Spire, Inc. (Aurelia)
 - Digium (Asterisk)
+- HWACI (SQLite)
 - MongoDB
 - MySQL AB (now Oracle) (MySQL)
 - Oracle (Berkeley DB)
+- Particular Software (NServiceBus)
 - Sendmail, Inc.
 - Sleepcat (nor Oracle) (Berkeley DB)
 - SugarCRM (Sugar)
+- Technical Pursuit (TIBET)
 - TrollTech AS (Qt)
