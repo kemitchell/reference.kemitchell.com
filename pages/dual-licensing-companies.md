@@ -4,10 +4,13 @@ title: Dual-Licensing Companies
 - Active Endpoints, Inc. (ActiveBPEL)
 - Artifex (Ghostscript)
 - Blue Spire, Inc. (Aurelia)
+- Compiere (ERP)
 - Digium (Asterisk)
+- Funambol
 - HWACI (SQLite)
 - MongoDB
 - MySQL AB (now Oracle) (MySQL)
+- Odoo
 - Oracle (Berkeley DB)
 - Particular Software (NServiceBus)
 - Sendmail, Inc.
@@ -15,3 +18,4 @@ title: Dual-Licensing Companies
 - SugarCRM (Sugar)
 - Technical Pursuit (TIBET)
 - TrollTech AS (Qt)
+- db4o
