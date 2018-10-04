@@ -12,3 +12,4 @@ title: Limited-Commercial-Use Public Software Licenses
 - [Peer Production License](http://wiki.p2pfoundation.net/Peer_Production_License#LICENSE)
 - [Unity Reference-Only License](https://unity3d.com/legal/licenses/Unity_Reference_Only_License)
 - [Unreal Engine End User License Agreement](https://www.unrealengine.com/en-US/eula)
+- [Limited License Agreement for Use of the CRYENGINE](https://www.cryengine.com/ce-terms)
