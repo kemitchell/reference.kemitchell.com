@@ -1,5 +1,5 @@
 ---
-title: Noncopyleft Clones
+title: Noncopyleft Alternatives
 ---
 - LLVM (GCC)
 - Fuschia (Linux)
