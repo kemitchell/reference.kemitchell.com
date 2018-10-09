@@ -15,3 +15,11 @@ body > footer {
 body > header > h1 {
   font-size: 300%;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
