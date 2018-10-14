@@ -23,3 +23,4 @@ title: Dual-Licensing Companies
 - Technical Pursuit (TIBET)
 - TrollTech AS (Qt)
 - db4o
+- [Metafizzy](https://metafizzy.co/) ([Isotope](https://isotope.metafizzy.co/license.html)) ([Flickity](https://flickity.metafizzy.co/license.html))
