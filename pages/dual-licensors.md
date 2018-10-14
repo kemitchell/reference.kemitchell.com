@@ -1,5 +1,5 @@
 ---
-title: Dual-Licensing Companies
+title: Dual Licensors
 ---
 
 - Active Endpoints, Inc. (ActiveBPEL)
