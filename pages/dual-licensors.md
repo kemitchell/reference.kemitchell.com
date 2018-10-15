@@ -18,7 +18,7 @@ title: Dual Licensors
 - Particular Software (NServiceBus)
 - ScientiaMobile (WURFL)
 - Sendmail, Inc.
-- Sleepcat (nor Oracle) (Berkeley DB)
+- Sleepcat (now Oracle) (Berkeley DB)
 - SugarCRM (Sugar)
 - Technical Pursuit (TIBET)
 - TrollTech AS (Qt)
