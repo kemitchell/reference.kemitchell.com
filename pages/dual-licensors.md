@@ -2,12 +2,15 @@
 title: Dual Licensors
 ---
 
+<!-- Sort with `sort -i`-->
+
 - Active Endpoints, Inc. (ActiveBPEL)
 - Artifex (Ghostscript)
 - Blue Spire, Inc. (Aurelia)
 - Compiere (ERP)
 - db4o
 - Digium (Asterisk)
+- [Ettus Research](https://www.ettus.com/)
 - Funambol
 - HWACI (SQLite)
 - Jaspersoft
