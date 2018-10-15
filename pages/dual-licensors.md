@@ -6,14 +6,16 @@ title: Dual Licensors
 - Artifex (Ghostscript)
 - Blue Spire, Inc. (Aurelia)
 - Compiere (ERP)
+- db4o
 - Digium (Asterisk)
 - Funambol
 - HWACI (SQLite)
 - Jaspersoft
+- [Metafizzy](https://metafizzy.co/) ([Isotope](https://isotope.metafizzy.co/license.html)) ([Flickity](https://flickity.metafizzy.co/license.html))
 - MongoDB
 - MySQL AB (now Oracle) (MySQL)
-- OPC Foundation (UA)
 - Odoo
+- OPC Foundation (UA)
 - Oracle (Berkeley DB)
 - Particular Software (NServiceBus)
 - ScientiaMobile (WURFL)
@@ -22,5 +24,3 @@ title: Dual Licensors
 - SugarCRM (Sugar)
 - Technical Pursuit (TIBET)
 - TrollTech AS (Qt)
-- db4o
-- [Metafizzy](https://metafizzy.co/) ([Isotope](https://isotope.metafizzy.co/license.html)) ([Flickity](https://flickity.metafizzy.co/license.html))
