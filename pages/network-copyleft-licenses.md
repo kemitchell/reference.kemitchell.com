@@ -6,3 +6,4 @@ title: Network Copyleft Licenses
 - OSL
 - NPOSL
 - RPL
+- [Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license)
