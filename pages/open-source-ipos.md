@@ -12,4 +12,5 @@ title: Open Source IPOs
 - Pivotal
 - Pivotal Software
 - Red Hat
+- Talend
 - VA Linux
