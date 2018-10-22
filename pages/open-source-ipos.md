@@ -1,16 +1,15 @@
 ---
 title: Open Source IPOs
 ---
-- Andover.net
-- Caldera
-- Cloudera
-- Cobalt Networks
-- Elastic
-- Hortonworks
-- MongoDB
-- MuleSoft
-- Pivotal
-- Pivotal Software
-- Red Hat
-- Talend
-- VA Linux
+- 1999 Andover.net
+- 1999 Cobalt Networks
+- 1999 Red Hat
+- 1999 VA Linux
+- 2002 Caldera
+- 2014 Hortonworks
+- 2016 Talend
+- 2017 Cloudera
+- 2017 MongoDB
+- 2017 MuleSoft
+- 2018 Elastic
+- 2018 Pivotal Software
