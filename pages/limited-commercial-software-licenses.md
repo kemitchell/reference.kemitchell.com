@@ -12,6 +12,7 @@ title: Limited-Commercial-Use Public Software Licenses
 - Prosperity
 - [Qabel](https://github.com/Qabel/qabel-desktop/blob/master/LICENSE)
 - [Standard "No Charge" GreenSock License](https://greensock.com/standard-license)
+- [Sun Community Sourced License version 2.8](https://www.oracle.com/technetwork/java/scsl-1-1-149938.txt)
 - [The Elastic License](https://github.com/elastic/elasticsearch/blob/0d8aa7527e242fbda9d84867ab8bc955758eebce/licenses/ELASTIC-LICENSE.txt)
 - [Unity Reference-Only License](https://unity3d.com/legal/licenses/Unity_Reference_Only_License)
 - [Unreal Engine End User License Agreement](https://www.unrealengine.com/en-US/eula)
