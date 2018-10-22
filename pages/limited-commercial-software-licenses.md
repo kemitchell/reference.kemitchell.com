@@ -5,6 +5,7 @@ title: Limited-Commercial-Use Public Software Licenses
 - [CockroachDB Community License Agreement](https://www.cockroachlabs.com/cockroachdb-community-license/)
 - Commons Clause
 - Fair Source
+- [Java Research License](https://www.openhub.net/licenses/Java_Research_License)
 - [La Fabrique des Mobilités "Fab Mob" Reciprocal Licence](http://wiki.p2pfoundation.net/Fab_Mob_Reciprocal_License_for_the_Legal_Contractualisation_of_Commons#APPENDIX_II:_LA_FABRIQUE_DES_MOBILIT.C3.89S_RECIPROCAL_LICENCE)
 - [Limited License Agreement for Use of the CRYENGINE](https://www.cryengine.com/ce-terms)
 - [Peer Production License](http://wiki.p2pfoundation.net/Peer_Production_License#LICENSE)
