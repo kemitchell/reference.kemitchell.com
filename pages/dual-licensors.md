@@ -6,7 +6,6 @@ title: Dual Licensors
 
 - Active Endpoints, Inc. (ActiveBPEL)
 - Artifex (Ghostscript)
-- Blue Spire, Inc. (Aurelia)
 - Compiere (ERP)
 - db4o
 - Digium (Asterisk)
@@ -19,11 +18,12 @@ title: Dual Licensors
 - MySQL AB (now Oracle) (MySQL)
 - Odoo
 - OPC Foundation (UA)
-- Oracle (Berkeley DB)
-- Particular Software (NServiceBus)
+- [Particular Software](https://particular.net/) ([NServiceBus](https://particular.net/nservicebus))
 - ScientiaMobile (WURFL)
 - Sendmail, Inc.
-- Sleepcat (now Oracle) (Berkeley DB)
+- Sleepycat (now Oracle) (Berkeley DB)
 - SugarCRM (Sugar)
-- Technical Pursuit (TIBET)
-- TrollTech AS (Qt)
+- [Technical Pursuit](https://technicalpursuit.com/) ([TIBET](https://technicalpursuit.com/license.xhtml))
+- [The Qt Company](https://www.qt.io/company) (formerly TrollTech AS) ([Qt](https://www1.qt.io/licensing/))
+
+<!--- Blue Spire, Inc. (Aurelia)-->
