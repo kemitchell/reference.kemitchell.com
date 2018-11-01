@@ -20,6 +20,7 @@ title: Commons Clause
 
 # Users
 
-- Redis Labs
-  - [License page with FAQ](https://redislabs.com/community/licenses/)
+- [Dgraph](https://blog.dgraph.io/post/relicensing-dgraph/)-
+- [neo4j](https://github.com/neo4j/neo4j)
+- [Redis Labs](https://redislabs.com/community/licenses/)
 - [Vespene](https://github.com/vespene-io/vespene#license)
