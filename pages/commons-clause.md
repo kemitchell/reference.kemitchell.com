@@ -20,7 +20,9 @@ title: Commons Clause
 
 # Users
 
-- [Dgraph](https://blog.dgraph.io/post/relicensing-dgraph/)-
+- [Dgraph](https://blog.dgraph.io/post/relicensing-dgraph/)
 - [neo4j](https://github.com/neo4j/neo4j)
 - [Redis Labs](https://redislabs.com/community/licenses/)
 - [Vespene](https://github.com/vespene-io/vespene#license)
+- [Level](https://level.app/)
+- [EXLskills](https://exlskills.com/)
