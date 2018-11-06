@@ -23,3 +23,27 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.conjunction, .disjunction {
+  list-style: none;
+}
+
+.conjunction > li:before {
+  content: '∧';
+  float: left;
+}
+
+.disjunction > li:before {
+  content: '∨';
+  float: left;
+}
+
+.conjunction > li.negation:before {
+  content: '∧⌐';
+  float: left;
+}
+
+.disjunction > li.negation:before {
+  content: '∨⌐';
+  float: left;
+}
