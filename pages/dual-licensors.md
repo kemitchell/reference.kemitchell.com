@@ -13,6 +13,7 @@ title: Dual Licensors
 - Funambol
 - HWACI (SQLite)
 - Jaspersoft
+- [Mergely](http://mergely.com/license)
 - [Metafizzy](https://metafizzy.co/) ([Isotope](https://isotope.metafizzy.co/license.html)) ([Flickity](https://flickity.metafizzy.co/license.html))
 - MongoDB
 - MySQL AB (now Oracle) (MySQL)
