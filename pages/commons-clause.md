@@ -17,6 +17,7 @@ title: Commons Clause
 - [mjg59](https://mjg59.dreamwidth.org/51177.html)
 - [SDTimes](https://sdtimes.com/os/the-commons-clause-causes-open-source-disruption/)
 - [Bruce Perens](https://perens.com/2018/08/31/redis-the-commons-clause-and-making-open-source-licenses-not-open-source/)
+- [Salil Deshpande](https://techcrunch.com/2018/11/29/the-crusade-against-open-source-abuse/) 2018-11-28
 
 # Users
 
