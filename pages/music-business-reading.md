@@ -6,3 +6,4 @@ title: Music Business Reading List
 - Passman's _All You Need to Know About the Music Business_
 - Seabrook's _The Song Machine_
 - Witt's _How Music Got Free_
+- Dannen's _Hit Men_
