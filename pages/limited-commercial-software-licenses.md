@@ -4,6 +4,7 @@ title: Limited-Commercial-Use Public Software Licenses
 - Aladdin
 - [CockroachDB Community License Agreement](https://www.cockroachlabs.com/cockroachdb-community-license/)
 - Commons Clause
+- [Confluent Community License](https://www.confluent.io/confluent-community-license)
 - Fair Source
 - [GitLab Enterprise Edition License](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/LICENSE)
 - [Java Research License](https://www.openhub.net/licenses/Java_Research_License)
