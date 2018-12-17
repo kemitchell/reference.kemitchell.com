@@ -18,3 +18,5 @@ title: Limited-Commercial-Use Public Software Licenses
 - [The Elastic License](https://github.com/elastic/elasticsearch/blob/0d8aa7527e242fbda9d84867ab8bc955758eebce/licenses/ELASTIC-LICENSE.txt)
 - [Unity Reference-Only License](https://unity3d.com/legal/licenses/Unity_Reference_Only_License)
 - [Unreal Engine End User License Agreement](https://www.unrealengine.com/en-US/eula)
+
+<!-- TODO: https://github.com/db4j/pupl -->
