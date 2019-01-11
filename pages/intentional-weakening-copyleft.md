@@ -20,3 +20,11 @@ title: Intentional Weakening of Strong-Copyleft Licenses
   > Also note that the only valid version of the GPL as far as the kernel
   > is concerned is _this_ particular version of the license (ie v2, not
   > v2.2 or v3.x or whatever), unless explicitly otherwise stated.
+
+- [GPL Cooperation Commitment](https://gplcc.github.io/gplcc/)
+
+- The Principles of Community-Oriented GPL Enforcement
+
+  <https://www.fsf.org/licensing/enforcement-principles>
+
+  <https://sfconservancy.org/copyleft-compliance/principles.html>
