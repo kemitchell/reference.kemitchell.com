@@ -1,5 +1,5 @@
 ---
-title: Open Source Defensive Termination Terms
+title: Open Source Patent Defensive Termination Terms
 ---
 
 # Apache 2.0
