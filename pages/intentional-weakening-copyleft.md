@@ -8,6 +8,12 @@ title: Intentional Weakening of Strong-Copyleft Licenses
 
 - MongoDB AGPL clarification
 
+  <https://www.mongodb.com/blog/post/the-agpl>
+
+- MongoDB SSPL FAQ
+
+  <https://www.mongodb.com/licensing/server-side-public-license/faq#implications>
+
 - Linux Syscall Note
 
   > NOTE! This copyright does *not* cover user programs that use kernel
