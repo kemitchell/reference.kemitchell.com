@@ -9,6 +9,7 @@ body > header, body > main, body > footer {
 }
 
 body > footer {
+  margin-top: 2rem;
   text-align: right;
 }
 
