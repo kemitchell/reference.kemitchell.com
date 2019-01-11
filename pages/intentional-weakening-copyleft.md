@@ -27,7 +27,9 @@ title: Intentional Weakening of Strong-Copyleft Licenses
   > is concerned is _this_ particular version of the license (ie v2, not
   > v2.2 or v3.x or whatever), unless explicitly otherwise stated.
 
-- [GPL Cooperation Commitment](https://gplcc.github.io/gplcc/)
+- GPL Cooperation Commitment
+
+  <https://gplcc.github.io/gplcc/>
 
 - The Principles of Community-Oriented GPL Enforcement
 
