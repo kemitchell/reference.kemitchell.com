@@ -16,6 +16,8 @@ title: Refutations of Various Legalisms
 
 - [Ken Adams](https://www.adamsdrafting.com/my-new-article-reconsidering-the-recital-of-consideration/)
 
+- [California Evidence Code 622](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=622.&lawCode=EVID)
+
 ## Indemnify, Defend, and Hold Harmless
 
 - [California Civil Code 2778](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=2778.)
