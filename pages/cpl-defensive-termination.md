@@ -4,7 +4,7 @@ title: CPL Defensive Termination
 
 [JUnit relicensing EPL for Netbeans and OpenJDK](https://github.com/junit-team/junit4/commit/3171c4b29cb207e71fc2f752f0fbcb235bc8e784)
 
-> 3. Specifically how does the EPL 1.0 differ from the CPL?
+> ## 3. Specifically how does the EPL 1.0 differ from the CPL?
 >
 > Section 7 of the CPL contained the following language:
 >
