@@ -18,7 +18,7 @@ $(PAGES)/%.title: $(PAGES)/%.md.meta
 
 $(SITE)/%.html: top.html bottom.html $(PAGES)/%.md.meta $(PAGES)/%.md.content | $(MARKDOWN) $(SITE)
 	sed "s/TITLE/$(shell fgrep 'title: ' $(PAGES)/$*.md.meta | sed 's/title: //')/" top.html > $@
-	$(MARKDOWN) $(PAGES)/$*.md.content >> $@
+	$(MARKDOWN) --smart $(PAGES)/$*.md.content >> $@
 	sed "s/BASENAME/$*/" bottom.html >> $@
 
 %.md.content: %.md
