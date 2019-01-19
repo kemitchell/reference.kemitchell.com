@@ -22,12 +22,12 @@ $(SITE)/%.html: top.html bottom.html $(PAGES)/%.md.meta $(PAGES)/%.md.content | 
 	sed "s/BASENAME/$*/" bottom.html >> $@
 
 %.md.content: %.md
-	csplit --elide-empty-files --suppress-matched --silent $< /---/ '{*}'
+	csplit --elide-empty-files --suppress-matched --silent $< /^---/ '{*}'
 	mv xx01 $@
 	rm -f xx*
 
 %.md.meta: %.md
-	csplit --elide-empty-files --suppress-matched --silent $< /---/ '{*}'
+	csplit --elide-empty-files --suppress-matched --silent $< /^---/ '{*}'
 	mv xx00 $@
 	rm -f xx*
 
