@@ -4,6 +4,8 @@ title: CPL Defensive Termination
 
 [JUnit relicensing EPL for Netbeans and OpenJDK](https://github.com/junit-team/junit4/commit/3171c4b29cb207e71fc2f752f0fbcb235bc8e784)
 
+<https://www.eclipse.org/legal/eplfaq.php#EPLDIFFER>:
+
 > ## 3. Specifically how does the EPL 1.0 differ from the CPL?
 >
 > Section 7 of the CPL contained the following language:
@@ -14,7 +16,7 @@ title: CPL Defensive Termination
 >
 > The current Eclipse Foundation Intellectual Property Policy further clarifies the general principles under which the Eclipse Foundation shall accept contributions, license contributions, license materials owned by the Eclipse Foundation, and manage other intellectual property matters.
 
-<https://www.eclipse.org/legal/eplfaq.php#EPLDIFFER>
+<https://rosenlaw.com/wp-content/uploads/The-Common-Public-License-CPL.pdf>:
 
 > Some companies do not want to in-license software under this kind of patent termination provision. Their concern is with the first half of section 7, which applies to infringement litigation "with respect to a patent applicable to software." This is the scenario they don't like: Suppose Company A licenses its software under the CPL to Company B. Company B then accuses Company A of infringing an entirely different software patent unrelated to the licensed software. Company B's license to the software terminates.
 >
@@ -25,5 +27,3 @@ title: CPL Defensive Termination
 > By the way, this situation can occur under the MPL as well. Under the defensive termination provisions in both the MPL and CPL, the licensor's patent licenses terminate if the licensee sues the licensor for patent infringement. Under both MPL and CPL, a licensee may eventually have to choose between continuing the license and suing for patent infringement.
 >
 > Is that really such an unreasonable bargain? In return for accepting valuable free software from Company A, Company B must accept that its software patents are effectively unenforceable against Company A. But the software is free! Why should it not come at a price? Why isn't _reciprocity of patent licenses_ a reasonable bargain?
-
-<https://rosenlaw.com/wp-content/uploads/The-Common-Public-License-CPL.pdf>
