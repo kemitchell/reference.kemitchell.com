@@ -9,8 +9,9 @@ title: UCITA
 
 # Anti-UCITA "Bomb Shelter" Laws
 
-- Iowa (2000) [copied, not verified]
-- North Carolina (2001) [copied, not verified]
-- West Virginia (2001) [copied, not verified]
-- Vermont (passed 2003) [copied, not verified]
-- Idaho [copied, not verified]
+- Iowa Code 554D.104
+- North Carolina General Statutes 66-329
+- Vermont Statutes 2464a
+- West Virginia Code 55-8-15
+
+[Americans for Electronic Commerce Transactions](http://www.ucita.com/)
