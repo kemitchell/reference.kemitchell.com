@@ -2,6 +2,7 @@
 title: Strong Reciprocal Licenses for Dual-Licensing
 ---
 
+- [BSD-Protection](https://spdx.org/licenses/BSD-Protection.html)
 - [Parity](https://licensezero.com/licenses/parity)
 - [Q Public License](https://opensource.org/licenses/QPL-1.0)
 - [Reciprocal Public License](https://opensource.org/licenses/RPL-1.5)
