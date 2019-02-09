@@ -20,6 +20,7 @@ title: Dual Licensors
 - Odoo
 - OPC Foundation (UA)
 - [Particular Software](https://particular.net/) ([NServiceBus](https://particular.net/nservicebus))
+- [RavenDB](https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it)
 - ScientiaMobile (WURFL)
 - Sendmail, Inc.
 - Sleepycat (now Oracle) (Berkeley DB)
