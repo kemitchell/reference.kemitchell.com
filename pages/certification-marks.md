@@ -8,6 +8,8 @@ title: Open Certification Marks
 
 - S/N 75439502, `OPEN SOURCE`, SPI
 
+  <http://lists.spi-inc.org/pipermail/spi-announce/1998/000000.html>
+
 - S/N 76020694, `OSI CERTIFIED`, OSI
 
   [Announcement of "OSI Certified" Open Source Mark](https://opensource.org/pressreleases/certified-open-source.php)
