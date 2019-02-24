@@ -18,4 +18,8 @@ title: Open Certification Marks
 
 - R/N 3405823, `OPEN PATENT`, Patents in the Public Interest
 
+  <http://openpatent.org/>
+
 - R/N 5479050, `OSHW`, Open Source Hardware Association
+
+  <https://www.oshwa.org/2018/07/09/oshwa-certification-logo-is-official/>
