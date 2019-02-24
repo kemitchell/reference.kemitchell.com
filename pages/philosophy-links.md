@@ -1,5 +1,5 @@
 ---
-title: Go-To Free/Open Licensing Philosophy Links
+title: Go-To Free-Open Licensing Philosophy Links
 ---
 
 - Richard Stallman's _Copyleft: Pragmatic Idealism_, <https://www.gnu.org/philosophy/pragmatic.en.html>
