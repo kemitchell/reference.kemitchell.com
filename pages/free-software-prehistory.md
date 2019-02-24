@@ -1,5 +1,5 @@
 ---
-title: Software Consortia Before Free Software
+title: Free Software Prehistory
 ---
 
 [A-0](https://en.wikipedia.org/wiki/A-0_System)
