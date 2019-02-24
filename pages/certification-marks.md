@@ -8,11 +8,11 @@ title: Open Certification Marks
 
 - S/N 75439502, `OPEN SOURCE`, SPI
 
+- S/N 76020694, `OSI CERTIFIED`, OSI
+
   [Announcement of "OSI Certified" Open Source Mark](https://opensource.org/pressreleases/certified-open-source.php)
 
   [Message from Lawrence Rosen](http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2001-April/003176.html)
-
-- S/N 76020694, `OSI CERTIFIED`, OSI
 
 ### Live
 
