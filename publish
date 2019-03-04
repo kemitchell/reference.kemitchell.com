@@ -1,4 +1,0 @@
-#!/bin/sh
-set -e
-make
-rsync --archive --compress --force --delete --progress site/ kyle@kemitchell.com:/var/www/reference.kemitchell.com/
