@@ -1,0 +1,5 @@
+name: Kyle E. Mitchell's Reference Pages
+url: https://reference.kemitchell.com
+homepage: https://reference.kemitchell.com
+exclude:
+  - README.md

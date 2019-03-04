@@ -1,4 +1,1 @@
-site
-*.meta
-*.content
-*.title
+_site
