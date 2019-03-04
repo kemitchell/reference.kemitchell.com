@@ -3,3 +3,6 @@ url: https://reference.kemitchell.com
 homepage: https://reference.kemitchell.com
 exclude:
   - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
