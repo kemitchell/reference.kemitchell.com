@@ -2,12 +2,12 @@
 title: Open Source Database Companies
 ---
 
-| Company | Project | Foundation | Status | Open Source License | Source-Available License |
+| Company | Project | Foundation | Status | Open Source License | Closed License |
 |-|-|-|-|-|-|
-| [Cloudera](https://www.cloudera.com/) | [Hadoop](https://hadoop.apache.org/) | [Apache](https://apache.org) | [Public](https://www.nasdaq.com/symbol/cldr) | Apache 2.0 |  |
+| [Cloudera](https://www.cloudera.com/) | [Hadoop](https://hadoop.apache.org/) | [Apache](https://apache.org) | [Public](https://www.nasdaq.com/symbol/cldr) | Apache 2.0 | [Cloudera Standard License](https://www.cloudera.com/legal/terms-and-conditions/cloudera-standard-license/cloudera-standard-license-v4-2016-05-26.html) |
 | [Cockroach Labs](https://www.cockroachlabs.com/) | CockroachDB | None | Private | Apache 2.0 | [CockroachDB Community License](https://www.cockroachlabs.com/cockroachdb-community-license/) |
 | [Confluent](https://www.confluent.io/) | [Kafka](https://kafka.apache.org/) | [Apache](https://apache.org) | Private | Apache 2.0 | [Confluent Community License](https://www.confluent.io/confluent-community-license) |
-| [DataStax](https://www.datastax.com/) | [Cassandra](https://cassandra.apache.org/) | [Apache](https://apache.org) | Private | Apache 2.0 |  |
+| [DataStax](https://www.datastax.com/) | [Cassandra](https://cassandra.apache.org/) | [Apache](https://apache.org) | Private | Apache 2.0 | [DataStax Enterprise Terms](https://www.datastax.com/enterprise-terms), [DataStax OpsCenter License Terms](https://www.datastax.com/datastax-opscenter-license-terms), [DataStax Studio License Terms](https://www.datastax.com/terms/datastax-studio-license-terms), [DataStax DSE Driver License Terms](https://www.datastax.com/terms/datastax-dse-driver-license-terms), [DataStax Developer License Terms](https://www.datastax.com/developer-license-terms) |
 | [Databricks](https://databricks.com/) | Spark | [Apache](https://apache.org) | Private | Apache 2.0 |  |
 | [Elastic](https://www.elastic.co/) | Elasticsearch | None | [Public](https://www.nasdaq.com/symbol/estc) | Apache 2.0 | [Elastic License](https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE.txt) |
 | [Hortonworks](https://hortonworks.com/) | [Hadoop](https://hadoop.apache.org/) | [Apache](https://apache.org) | Public | Apache 2.0 | [License Agreement for Teradata Connector, Hive ODBC Driver License Agreement, Hive JDBC Driver License Agreement, Hive ODBC Driver for Apache Phoenix License Agreement](https://hortonworks.com/licenses/) |
