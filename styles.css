@@ -49,6 +49,14 @@ a:hover {
   float: left;
 }
 
-th, td {
+table {
+  border-collapse: collapse;
+}
+
+tbody th, tbody td {
   padding: 1rem 0.5rem;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2
 }
