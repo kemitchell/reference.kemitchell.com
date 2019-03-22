@@ -4,6 +4,7 @@ title: Open Source Database Companies
 
 | Company | Project | Foundation | Status | Open Source License | Closed License |
 |-|-|-|-|-|-|
+| [ArangoDB](https://www.arangodb.com/) | [ArangoDB](https://github.com/arangodb/arangodb/) | None | Private | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | Private |
 | [Cloudera](https://www.cloudera.com/) | [Hadoop](https://hadoop.apache.org/) | [Apache](https://apache.org) | [Public](https://www.nasdaq.com/symbol/cldr) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [Cloudera Standard License](https://www.cloudera.com/legal/terms-and-conditions/cloudera-standard-license/cloudera-standard-license-v4-2016-05-26.html) |
 | [Cockroach Labs](https://www.cockroachlabs.com/) | [CockroachDB](https://github.com/cockroachdb/cockroach) | None | Private | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [CockroachDB Community License](https://www.cockroachlabs.com/cockroachdb-community-license/) |
 | [Confluent](https://www.confluent.io/) | [Kafka](https://kafka.apache.org/) | [Apache](https://apache.org) | Private | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [Confluent Community License](https://www.confluent.io/confluent-community-license) |
