@@ -4,6 +4,8 @@ title: Top Donation-Receiving Open Source Developers
 
 ***Warning***:  This table intentionally lists _only_ the breakaway success stories.  These items are _not_ representative of donation-based funding outcomes for open source developers generally.  I _only_ included those listed as receiving >$1KUSD per month.
 
+Last Updated: 2019-03-24
+
 | Developer     | Amount  | Donors | Mean     | Platform                                        | Perks                                                    |
 | ------------- | ------- | ------ | -------- | ----------------------------------------------- | -------------------------------------------------------- |
 | Evan You      | $17,621 | 236    | $74.6652 | [Patreon](https://www.patreon.com/evanyou)      | backers.md, vuejs.org, README,                           |
