@@ -1,5 +1,5 @@
 ---
-title: Top Donation-Earning Open Source Developers
+title: Top Donation-Receiving Open Source Developers
 ---
 
 
