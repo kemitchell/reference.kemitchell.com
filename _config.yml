@@ -2,6 +2,7 @@ title: Kyle E. Mitchell's Reference Pages
 url: https://reference.kemitchell.com
 homepage: https://reference.kemitchell.com
 image: https://reference.kemitchell.com/bookonscreen.png
+repository: kemitchell/reference.kemitchell.com
 exclude:
   - README.md
   - CNAME
