@@ -6,10 +6,12 @@ title: Top Donation-Receiving Open Source Developers
 
 Last Updated: 2019-03-24
 
-| Developer     | Amount  | Donors | Mean     | Platform                                        | Perks                                                    |
-| ------------- | ------- | ------ | -------- | ----------------------------------------------- | -------------------------------------------------------- |
-| Evan You      | $17,621 | 236    | $74.6652 | [Patreon](https://www.patreon.com/evanyou)      | backers.md, vuejs.org, README,                           |
-| Eran Hammer   | $3,179  | 39     | $81.5128 | [Patreon](https://www.patreon.com/eranhammer)   | SPONSORS.md, Security Alerts Mailing List                |
-| Sindre Sorhus | $1,904  | 207    | $9.198   | [Patreon](https://www.patreon.com/sindresorhus) | sindresorhus.com/thanks, README                          |
-| Henry Zhu     | $1,593  | 167    | $9.5389  | [Patreon](https://www.patreon.com/henryzhu)     | henryzoo.com/thanks, ping-pong, BBQ, README,  babeljs.io |
+| Developer       | Amount  | Donors | Mean      | Platform                                        | Perks                                                    |
+| --------------- | ------- | ------ | --------- | ----------------------------------------------- | -------------------------------------------------------- |
+| Evan You        | $17,621 | 236    | $74.6652  | [Patreon](https://www.patreon.com/evanyou)      | backers.md, vuejs.org, README,                           |
+| Eran Hammer     | $3,179  | 39     | $81.5128  | [Patreon](https://www.patreon.com/eranhammer)   | SPONSORS.md, Security Alerts Mailing List                |
+| Sindre Sorhus   | $1,904  | 207    | $9.198    | [Patreon](https://www.patreon.com/sindresorhus) | sindresorhus.com/thanks, README                          |
+| Kent Overstreet | $1,798  | 267    | $6.734... | [Patreon](https://www.patreon.com/bcachefs)     | loose bug prioritization                                 |
+| Henry Zhu       | $1,593  | 167    | $9.5389   | [Patreon](https://www.patreon.com/henryzhu)     | henryzoo.com/thanks, ping-pong, BBQ, README,  babeljs.io |
+| Øyvind Kolås    | $1,020  | 242    | $4.2148   | [Patreon](https://www.patreon.com/pippin)       | rendering demo text file, private previews               |
 
