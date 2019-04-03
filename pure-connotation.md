@@ -4,8 +4,9 @@ title: Words with Connotation Only
 
 # Positive
 
-- Freedom
 - Community
+- Freedom
+- Open
 
 # Negative
 
