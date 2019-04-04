@@ -11,3 +11,4 @@ title: Magic Files Under Open Software Licenses
 - LPPL-1.2:  `manifest.txt`
 - LPPL-1.3a:  `manifest.txt`
 - LPPL-1.3c:  `manifest.txt`
+- GPL-2.0 WITH 389-exception: `EXCEPTION`
