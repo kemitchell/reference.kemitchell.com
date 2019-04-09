@@ -13,4 +13,5 @@ words without substantial connotation, but little or no remaining denotation
 
 # Negative
 
+- Closed
 - Oppression
