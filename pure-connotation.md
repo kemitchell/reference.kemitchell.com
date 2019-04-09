@@ -8,6 +8,7 @@ words without substantial connotation, but little or no remaining denotation
 
 - Community
 - Freedom
+- Liberty
 - Open
 
 # Negative
