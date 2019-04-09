@@ -1,6 +1,8 @@
 ---
-title: Words with Connotation Only
+title: Pure Connotation
 ---
+
+words without substantial connotation, but little or no remaining denotation
 
 # Positive
 
