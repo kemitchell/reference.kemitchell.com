@@ -8,6 +8,7 @@ title: Core Groupware Paradigms
 - document editor
 - forum
 - link aggregator
+- mailing list
 - podcast
 - private messaging
 - wiki
