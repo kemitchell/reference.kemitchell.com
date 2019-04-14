@@ -2,6 +2,8 @@
 title: Core Groupware Paradigms
 ---
 
+| solution |
+|-|
 | (micro)blog |
 | calendar |
 | chat |
