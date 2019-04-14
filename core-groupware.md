@@ -10,5 +10,6 @@ title: Core Groupware Paradigms
 - link aggregator
 - mailing list
 - podcast
+- poll
 - private messaging
 - wiki
