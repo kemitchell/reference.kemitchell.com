@@ -9,6 +9,7 @@ title: Dual Licensors
 - Compiere (ERP)
 - db4o
 - Digium (Asterisk)
+- [drone.io](https://drone.io/)
 - [Ettus Research](https://www.ettus.com/)
 - Funambol
 - HWACI (SQLite)
