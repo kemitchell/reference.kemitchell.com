@@ -1,5 +1,5 @@
 ---
-title: Patent Risk Resources
+title: Patent Risk Allocation
 ---
 
 - Heather Meeker's [_Musings on the Eternal Question of Patent Indemnities_](https://heathermeeker.com/2019/06/26/musings-on-the-eternal-question-of-patent-indemnities/) (2019)
