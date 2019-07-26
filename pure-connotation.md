@@ -11,6 +11,8 @@ words without substantial connotation, but little or no remaining denotation
 - Innovation
 - Liberty
 - Open
+- Partnership
+- Synergy
 
 # Negative
 
