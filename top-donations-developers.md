@@ -7,6 +7,7 @@ title: Top Donation-Receiving Open Source Developers
 | Developer       | As Of      | Amount  | Donors | Mean      | Platform                                                     | Perks                                                    |
 | --------------- | ---------- | ------- | ------ | --------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | Evan You        | 2019-03-24 | $17,621 | 236    | $74.6652  | [Patreon](https://www.patreon.com/evanyou)                   | backers.md, vuejs.org, README,                           |
+| Gina Häußge     | 2019-09-08 | $6,101  | 1,639  | $3.72239  | [Patreon](https://www.patreon.com/foosel)                    | website badge, Q&A, stickers, About acknowledgment       |
 | Eran Hammer     | 2019-03-24 | $3,179  | 39     | $81.5128  | [Patreon](https://www.patreon.com/eranhammer)                | SPONSORS.md, Security Alerts Mailing List                |
 | Sindre Sorhus   | 2019-03-24 | $1,904  | 207    | $9.198    | [Patreon](https://www.patreon.com/sindresorhus)              | sindresorhus.com/thanks, README                          |
 | Kent Overstreet | 2019-03-24 | $1,798  | 267    | $6.734... | [Patreon](https://www.patreon.com/bcachefs)                  | loose bug prioritization                                 |
