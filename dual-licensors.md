@@ -13,6 +13,7 @@ title: Dual Licensors
 - [Ettus Research](https://www.ettus.com/)
 - Funambol
 - HWACI (SQLite)
+- [iText](https://itextpdf.com/)
 - Jaspersoft
 - [Mergely](http://mergely.com/license)
 - [Metafizzy](https://metafizzy.co/) ([Isotope](https://isotope.metafizzy.co/license.html)) ([Flickity](https://flickity.metafizzy.co/license.html))
