@@ -1,0 +1,11 @@
+---
+title: Types of Licenses
+---
+- Background License
+- Bare License
+- Contributor License Agreement
+- Cross-License
+- End User License Agreement
+- License Back
+- Private License
+- Public License
