@@ -9,6 +9,7 @@ title: Programming Languages
 | Crystal | Shards | LLVM | <https://crystal-lang.org> |
 | Go | | Machine | <https://golang.org> |
 | Haskell | Cabal | LLVM | <https://www.haskell.org> |
+| Lua | LuaRocks | Interpreted | <https://www.lua.org> |
 | Nim | Nimble | C | <https://nim-lang.org> |
 | Node.js | npm | Interpreted | <https://nodejs.org> |
 | Perl | PPM / CPAN | Interpreted | <https://perl.org> |
