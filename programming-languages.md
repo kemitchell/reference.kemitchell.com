@@ -4,6 +4,7 @@ title: Programming Languages
 
 | Language | Package Manager | Target | Website |
 |-|-|
+| Chicken Scheme | Eggs | C | <https://call-cc.org> |
 | Clojure | Leiningen | JVM | <https://clojure.org> |
 | Crystal | Shards | LLVM | <https://crystal-lang.org> |
 | Go | | Machine | <https://golang.org> |
