@@ -2,15 +2,15 @@
 title: Programming Languages
 ---
 
-| Language | Package Manager | Website |
+| Language | Package Manager | Target | Website |
 |-|-|
-| Clojure | Leiningen | <https://clojure.org> |
-| Crystal | Shards | <https://crystal-lang.org> |
-| Go | | <https://golang.org> |
-| Haskell | Cabal | <https://www.haskell.org> |
-| Nim | Nimble | <https://nim-lang.org> |
-| Node.js | npm | <https://nodejs.org> |
-| Perl | PPM / CPAN | <https://perl.org> |
-| Python | PIP | <https://www.python.org> |
-| Ruby | RubyGems | <https://www.ruby-lang.org> |
-| Rust | Cargo | <https://rust-lang.org> |
+| Clojure | Leiningen | JVM | <https://clojure.org> |
+| Crystal | Shards | LLVM | <https://crystal-lang.org> |
+| Go | | Machine | <https://golang.org> |
+| Haskell | Cabal | LLVM | <https://www.haskell.org> |
+| Nim | Nimble | C | <https://nim-lang.org> |
+| Node.js | npm | Interpreted | <https://nodejs.org> |
+| Perl | PPM / CPAN | Interpreted | <https://perl.org> |
+| Python | PIP | Interpreted | <https://www.python.org> |
+| Ruby | RubyGems | Interpreted | <https://www.ruby-lang.org> |
+| Rust | Cargo | LLVM | <https://rust-lang.org> |
