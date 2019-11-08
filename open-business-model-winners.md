@@ -2,9 +2,9 @@
 title: Open Business Model Winners
 ---
 
-| Model | Company |
+| Model | Company | Starting |
 |-|-|
-| Documentation | O'Reilly |
-| Physical Distribution | Walnut Creek CDROM |
-| Support | Red Hat |
-| Hosting | Amazon Web Services |
+| Documentation | O'Reilly | 1984 |
+| Physical Distribution | Walnut Creek CDROM | 1993 |
+| Support | Red Hat | 1993 |
+| Hosting | Amazon Web Services | 2006 |
