@@ -6,7 +6,7 @@ title: 'No "Open Source" Trademark'
 
   > That's not likely, for the very reason the application was permitted to lapse. We have discovered that there is virtually no chance that the U.S. Patent and Trademark Office would register the mark "open source"; the mark is too descriptive. Ironically, we were partly a victim of our own success in bringing the "open source" concept into the mainstream.
 
-- [Abandoned Software in the Public Interested application for "open source"](https://tsdr.uspto.gov/#caseNumber=75439502&caseType=SERIAL_NO&searchType=statusSearch)
+- [Abandoned Software in the Public Interest application for "open source"](https://tsdr.uspto.gov/#caseNumber=75439502&caseType=SERIAL_NO&searchType=statusSearch)
 
 - [OSI registration of "Open Source Initiative Approved License"](https://tsdr.uspto.gov/#caseNumber=78813707&caseSearchType=US_APPLICATION&caseType=SERIAL_NO&searchType=statusSearch)
 
@@ -87,6 +87,3 @@ title: 'No "Open Source" Trademark'
    >     increasing availability of technical support and consulting for
    >     end users, historically at a lower cost and with quicker response
    >     time.
-
-
-  
