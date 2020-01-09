@@ -14,6 +14,8 @@ title: 'No "Open Source" Trademark'
 
 - [SPI Statement, and Request for Comments, regarding the Future of the "open source" trademark](https://old.lwn.net/1998/1203/a/trademark.html)
 
+- Bruce Perens, ["It's Time to Talk About Free Software Again"](https://lists.debian.org/debian-devel/1999/02/msg01641.html)
+
 - ["Open Source" used in 1993](https://groups.google.com/forum/#!msg/comp.os.ms-windows.programmer.win32/WoBvPB0U9Co/wXfpq5nEJTYJ)
 
   > I have just installed the release version of NT, and much to my dismay,
