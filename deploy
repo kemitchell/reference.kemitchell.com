@@ -2,6 +2,6 @@
 set -e
 SITE=reference.kemitchell.com
 rm -rf _site
-bundle install --quiet
-bundle exec jekyll build --quiet
+bundler install --quiet
+bundler exec jekyll build --quiet
 rsync -a --delete _site/ $SITE:/var/www/$SITE/
