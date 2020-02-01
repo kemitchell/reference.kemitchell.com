@@ -22,3 +22,7 @@ title: Ethical Software Licenses
 
 ## Meta
 - [Ethical Source](https://ethicalsource.dev/definition/)
+
+## Miscellaneous
+
+- [icebreaker.dev](https://icebreaker.dev/)
