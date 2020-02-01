@@ -3,6 +3,7 @@ title: Ethical Software Licenses
 ---
 
 ## Fourth Wave
+- [Ethical Source](https://ethicalsource.dev/)
 - [The (Cooperative) Non-Violent Public License](https://thufie.lain.haus/NPL.html)
 - [Common Good Public License](http://cgpl.org/)
 - [Do No Harm](https://github.com/raisely/NoHarm)
