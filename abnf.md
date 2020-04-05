@@ -2,7 +2,7 @@
 title: Augmented Backus-Naur Form
 ---
 
-- RFC 5234
+- [RFC 5234](https://tools.ietf.org/html/rfc5234)
 - rule = definition ; comment CR LF
 - rule names case insensitive
 - terminals:
@@ -37,7 +37,7 @@ title: Augmented Backus-Naur Form
   <tr><td><code>DQUOTE</code></td><td><code>%x22</code></td></tr>
   <tr><td><code>SP</code></td><td><code>%x20</code></td></tr>
   <tr><td><code>HTAB</code></td><td><code>%x09</code></td></tr>
-  <tr><td><code>WSP</code></td><td><code>SP/HTAB</code></td></tr>
+  <tr><td><code>WSP</code></td><td><code>SP / HTAB</code></td></tr>
   <tr><td><code>LWSP</code></td><td><code>*(WSP / CRLF WSP)</code></td></tr>
   <tr><td><code>VCHAR</code></td><td><code>%x21-7E</code></td></tr>
   <tr><td><code>CHAR</code></td><td><code>%x01-7F</code></td></tr>
