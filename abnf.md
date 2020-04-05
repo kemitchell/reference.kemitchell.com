@@ -32,8 +32,8 @@ title: Augmented Backus-Naur Form
 <table>
 <tr><td><code>ALPHA</code></td><td><code>%x41-5A / %x61-7A</code></td></tr>
 <tr><td><code>DIGIT</code></td><td><code>%x30-39</code></td></tr>
-<tr><td><code>HEXDIG</td><td><code>DIGIT / "A" / "B" / "C" / "D" / "E" / "F"</code></td></tr>
-<tr><td><code>DQUOTE</td><td><code>%x22</code></td></tr>
+<tr><td><code>HEXDIG</code></td><td><code>DIGIT / "A" / "B" / "C" / "D" / "E" / "F"</code></td></tr>
+<tr><td><code>DQUOTE</code></td><td><code>%x22</code></td></tr>
 <tr><td><code>SP</code></td><td><code>%x20</code></td></tr>
 <tr><td><code>HTAB</code></td><td><code>%x09</code></td></tr>
 <tr><td><code>WSP</code></td><td><code>SP/HTAB</code></td></tr>
