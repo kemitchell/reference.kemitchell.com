@@ -60,3 +60,8 @@ tbody th, tbody td {
 tbody tr:nth-child(even) {
   background-color: #f2f2f2
 }
+
+code {
+  border: thin solid black;
+  padding: 0.1rem;
+}
