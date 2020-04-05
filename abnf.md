@@ -3,18 +3,18 @@ title: Augmented Backus-Naur Form
 ---
 
 - [RFC 5234](https://tools.ietf.org/html/rfc5234)
-- rule = definition ; comment CR LF
+- `rule = definition ; comment CR LF`
 - rule names case insensitive
 - terminals:
-  - e.g. %d13.10 is CR LF
-  - b=bin
-  - d=decimal
-  - x=hex
-  - dot for concatenation
-- text in "", ASCII
-- %s"aBc" is case-sensitive
-- %i"aBc" is case-insensitive
-- LWSP is zero or more, newlines permitted, very controversial
+  - e.g. `%d13.10` is CR LF
+  - `b` bin
+  - `d` decimal
+  - `x` hex
+  - `.` for concatenation
+- text in `""`, ASCII
+- `%s"aBc"` is case-sensitive
+- `%i"aBc"` is case-insensitive
+- `LWSP` is zero or more, newlines permitted, very controversial
 - `Rule1 Rule1` concatenates
 - `Rule1 / Rule2` alternatives
 - `Rule1 =/ Rule2` add incremental alternative
