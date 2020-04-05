@@ -28,7 +28,6 @@ title: Augmented Backus-Naur Form
 - `[Rule]` optional
 - `0*1(fubar snafu)`
 - precedence: strings and name formation, comment, value range, repetition, grouping and optional, concatenation, alternative
-- core definitions:
 
   <table>
   <tr><td><code>ALPHA</code></td><td><code>%x41-5A / %x61-7A</code></td></tr>
