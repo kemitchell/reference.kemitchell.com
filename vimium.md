@@ -9,7 +9,7 @@ title: Vimium Keyboard Shortcuts
 	<tr><td><code>ge</code>/<code>gE</code></td><td>edit URL</td></tr>
 	<tr><td><code>H</code>/<code>L</code></td><td>back/forward</td></tr>
 	<tr><td><code>t</code></td><td>new tab</td></tr>
-	<tr><td><code>J/K</code></td><td>tab left/right</td></tr>
+	<tr><td><code>J</code>/<code>K</code></td><td>tab left/right</td></tr>
 	<tr><td><code>^</code></td><td>previous tab</td></tr>
 	<tr><td><code>g0</code>/<code>g$</code></td><td>first/last tab</td></tr>
 	<tr><td><code>yt</code></td><td>duplicate tab</td></tr>
