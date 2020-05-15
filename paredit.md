@@ -1,0 +1,29 @@
+---
+title: paredit
+---
+
+<table>
+  <tr><td><code>paredit-wrap-round</code></td><td><code></code></td><td><code>M-(</code></td></tr>
+  <tr><td><code>paredit-meta-doublequote</code></td><td><code>M-"</code></td></tr>
+  <tr><td><code>paredit-forward-delete</code></td><td><code>C-d</code></td></tr>
+  <tr><td><code>paredit-forward-kill-word</code></td><td><code>M-d</code></td></tr>
+  <tr><td><code>paredit-backward-delete</code></td><td><code>Delete</code></td></tr>
+  <tr><td><code>paredit-backward-kill-word</code></td><td><code>M-Delete</code></td></tr>
+  <tr><td><code>paredit-kill</code></td><td><code>C-k</code></td></tr>
+  <tr><td><code>paredit-forward-slurp-sexp</code></td><td><code>C-)</code></td></tr>
+  <tr><td><code>paredit-forward-barf-sexp</code></td><td><code>C-}</code></td></tr>
+  <tr><td><code>paredit-backward-slurp-sexp</code></td><td><code>C-(</code></td></tr>
+  <tr><td><code>paredit-backward-barf-sexp</code></td><td><code>C-{</code></td></tr>
+  <tr><td><code>paredit-forward</code></td><td><code>C-M-f</code></td></tr>
+  <tr><td><code>paredit-backward</code></td><td><code>C-M-b</code></td></tr>
+  <tr><td><code>paredit-forward-down</code></td><td><code>C-M-d</code></td></tr>
+  <tr><td><code>paredit-backward-up</code></td><td><code>C-M-u</code></td></tr>
+  <tr><td><code>paredit-forward-up</code></td><td><code>C-M-n</code></td></tr>
+  <tr><td><code>paredit-backward-down</code></td><td><code>C-M-p</code></td></tr>
+  <tr><td><code>paredit-splice-sexp-killing-backward</code></td><td><code>M-Up</code></td></tr>
+  <tr><td><code>paredit-split-sexp-killing-forward</code></td><td><code>M-Down</code></td></tr>
+  <tr><td><code>paredit-splice-sexp</code></td><td><code>M-s</code></td></tr>
+  <tr><td><code>paredit-split-sexp</code></td><td><code>M-S</code></td></tr>
+  <tr><td><code>paredit-join-sexps</code></td><td><code>M-J</code></td></tr>
+  <tr><td><code>paredit-convolute-sexp</code></td><td><code>M-?</code></td></tr>
+</table>
