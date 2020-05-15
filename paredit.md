@@ -3,7 +3,7 @@ title: paredit
 ---
 
 <table>
-  <tr><td><code>paredit-wrap-round</code></td><td><code></code></td><td><code>M-(</code></td></tr>
+  <tr><td><code>paredit-wrap-round</code></td><td><code>M-(</code></td></tr>
   <tr><td><code>paredit-meta-doublequote</code></td><td><code>M-"</code></td></tr>
   <tr><td><code>paredit-forward-delete</code></td><td><code>C-d</code></td></tr>
   <tr><td><code>paredit-forward-kill-word</code></td><td><code>M-d</code></td></tr>
