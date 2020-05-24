@@ -8,6 +8,8 @@ Linae Foster (Licensing Manager) and Scott Rouse (D&D Brand Manager) succeeded D
 
 d20 System
 
+[Open Gaming Foundation](http://www.opengamingfoundation.org/)
+
 ## Open Game License
 
 > OPEN GAME LICENSE Version 1.0a
