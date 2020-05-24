@@ -34,17 +34,17 @@ d20 System
 >
 > 9\. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
 >
-> 1\. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+> 10\. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
 >
 > 11\. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
 >
-> 1\. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+> 12\. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
 >
-> 1\. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+> 13\. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
 >
-> 1\. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+> 14\. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 >
-> 1\. COPYRIGHT NOTICE
+> 15\. COPYRIGHT NOTICE
 > Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 
 ## d20 System Trademark License
