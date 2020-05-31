@@ -36,7 +36,11 @@ title: Stripe Subscriptions Example
 - server updates customer to use new payment method as default
 
   ```javascript
-  stripe.customers.update(customerID, { invoice_settings: { default_payment_method: paymentMethodID } })
+  stripe.customers.update(customerID, {
+    invoice_settings: {
+      default_payment_method: paymentMethodID
+    }
+  })
   ```
 
 - server creates subscription
