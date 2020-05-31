@@ -71,3 +71,14 @@ title: Stripe Subscriptions Example
     { payment_method: paymentMethodID }
   )
   ```
+
+
+## Test Numbers
+
+- `4242424242424242` succeeds and immediately creates an active subscription.
+
+- `4000002760003184` Requires authentication. `confirmCardPayment()` will trigger a modal asking for the customer to authenticate. Once the user confirms, the subscription will become active.
+
+- `4000008260003178` always fails with a decline code of `insufficient_funds`.
+
+- `4000000000000341` succeeds on initial attaching to Customer object, but fails with on the first payment of a subscription with the `payment_intent` value of `requires_payment_method`.
