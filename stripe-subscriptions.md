@@ -66,5 +66,8 @@ title: Stripe Subscriptions Example
 - if payment_intent.status is `'requires_action'`, the client shows confirmation UI
 
   ```javascript
-  stripe.confirmCardPayment(payment_intent.client_secret, { payment_method: paymentMethodID })
+  stripe.confirmCardPayment(
+    payment_intent.client_secret,
+    { payment_method: paymentMethodID }
+  )
   ```
