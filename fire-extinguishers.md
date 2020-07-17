@@ -25,3 +25,9 @@ title: Fire Extinguishers
 - ridiculous number of models have been recalled
 - fake valves on non-refillable models
 - plastic hardware
+
+# Recharing
+- full discharge means more new powder to buy
+- full discharge means more abrasive powder through the valve
+- often cheaper to buy a new five-pounder
+- usually cost-effective to recharge ten-pounders
