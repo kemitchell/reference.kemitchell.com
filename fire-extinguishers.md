@@ -23,7 +23,7 @@ title: Fire Extinguishers
 
 ## Kidde
 - ridiculous number of models have been recalled
-- fake valves on non-refillable models
+- fake dials on non-refillable models
 - plastic hardware
 
 # Recharing
