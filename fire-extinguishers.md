@@ -4,6 +4,16 @@ title: Fire Extinguishers
 
 # Recommendations
 - camps: 2A:10B:C
+- PASS:
+  - Pull the pin.
+  - Aim at the base of the fire.
+  - Squeeze the lever.
+  - Sweep from side to side.
+- Fire Tetrahedron:
+  1.  Heat
+  2.  Fuel
+  3.  Oxygen
+  4.  Uninterrupted Chemical Reaction
 
 # Manufacturers
 
