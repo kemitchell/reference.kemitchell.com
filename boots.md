@@ -19,11 +19,13 @@ title: Boots
 # Constructions
 - Blake Stitch
 - Goodyear Welt
-  - 270
-  - 360
-  - Storm Welt
 - Stitchdown / Veldtschoen
+- Storm Welt
+- Sutton Rapid
 - Vulcanization
+
+# Finishes
+- Fiebing's
 
 # Care
 - Kiwi
@@ -45,5 +47,6 @@ title: Boots
 - [Thorogood](http://www.thorogoodworkboots.com/)
 - [Thursday](https://thursdayboots.com/)
 - [Viberg](https://viberg.com/)
+- [Wesco](https://builder.wescoboots.com/)
 - [White's](https://whitesboots.com/)
 - [Wolverine](https://www.wolverine.com/)
