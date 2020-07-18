@@ -7,8 +7,11 @@ title: Boots
 - Vibram
 
 # Tanneries
+- Guidi & Rosellini
 - Hermann Oak
 - Horween
+- J&E Sedgwick & Co. / Clayton & Sons
+- Lo StivalE
 - S.B. Foot
 - Tandy
 - Wicket & Craig
