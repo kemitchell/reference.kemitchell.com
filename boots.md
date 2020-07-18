@@ -27,20 +27,20 @@ title: Boots
 - Lexol
 
 # Bootmakers
-- Alden
-- Allen Edmonds
-- Chippewa
-- Corcoran
-- Crockett & Jones
-- Danner
-- Dayton
-- L.L. Bean
-- Nick's
-- Oak Street
-- Red Wing
-- Role Club
-- Thorogood
-- Thursday
-- Viberg
-- White's
-- Wolverine
+- [Alden](http://www.aldenshoe.com/)
+- [Allen Edmonds](https://www.allenedmonds.com/)
+- [Chippewa](https://www.chippewaboots.com/)
+- [Corcoran](https://www.carolinashoe.com/Corcoran)
+- [Crockett & Jones](https://www.crockettandjones.com/)
+- [Danner](https://www.danner.com/)
+- [Dayton](https://www.daytonboots.com/)
+- [L.L. Bean](https://www.llbean.com/)
+- [Nick's](https://nicksboots.com/)
+- [Oak Street](https://oakstreetbootmakers.com/)
+- [Red Wing](https://www.redwingshoes.com/)
+- [Role Club](http://www.roleclub.com/)
+- [Thorogood](http://www.thorogoodworkboots.com/)
+- [Thursday](https://thursdayboots.com/)
+- [Viberg](https://viberg.com/)
+- [White's](https://whitesboots.com/)
+- [Wolverine](https://www.wolverine.com/)
