@@ -6,6 +6,9 @@ title: Boots
 - Dainite
 - Vibram
 
+# Insoles
+- [Texon](https://www.texon.com/)
+
 # Tanneries
 - Chahin
 - Guidi & Rosellini
