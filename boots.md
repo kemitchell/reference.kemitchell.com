@@ -3,8 +3,8 @@ title: Boots
 ---
 
 # Soles
-- Dainite
-- Vibram
+- [Dainite](http://www.dainite.com/)
+- [Vibram](http://www.dainite.com/)
 
 # Insoles
 - [Texon](https://www.texon.com/)
