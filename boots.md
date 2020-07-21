@@ -10,15 +10,15 @@ title: Boots
 - [Texon](https://www.texon.com/)
 
 # Tanneries
-- Chahin
+- [Chahin](https://www.chahinleather.com/about)
 - Guidi & Rosellini
-- Hermann Oak
-- Horween
-- J&E Sedgwick & Co. / Clayton & Sons
-- Lo Stivale
-- S.B. Foot
-- Tandy
-- Wicket & Craig
+- [Hermann Oak](http://hermannoakleather.com/)
+- [Horween](https://www.horween.com/)
+- [J&E Sedgwick & Co. / Clayton & Sons](https://www.sedgwickandcoleather.com/)
+- [Lo Stivale](https://www.lostivale.it/)
+- [S.B. Foot](http://www.sbfoot.com/)
+- [Tandy](https://tandyleather.com/)
+- [Wicket & Craig](http://wickett-craig.com/)
 
 # Constructions
 - Blake Stitch
