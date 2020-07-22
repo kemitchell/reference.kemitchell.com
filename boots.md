@@ -17,6 +17,7 @@ title: Boots
 - [J&E Sedgwick & Co. / Clayton & Sons](https://www.sedgwickandcoleather.com/)
 - [Lo Stivale](https://www.lostivale.it/)
 - [S.B. Foot](http://www.sbfoot.com/)
+- [Seidel](https://www.seideltanning.com/)
 - [Tandy](https://tandyleather.com/)
 - [Wicket & Craig](http://wickett-craig.com/)
 
