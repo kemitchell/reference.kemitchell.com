@@ -53,7 +53,7 @@ title: Boots
 - [Role Club](http://www.roleclub.com/)
 - [Thorogood](http://www.thorogoodworkboots.com/)
 - [Thursday](https://thursdayboots.com/)
-- [Truman](https://truamboot.com)
+- [Truman](https://trumanboot.com)
 - [Viberg](https://viberg.com/)
 - [Wesco](https://builder.wescoboots.com/)
 - [White's](https://whitesboots.com/)
