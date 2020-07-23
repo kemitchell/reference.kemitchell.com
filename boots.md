@@ -37,6 +37,7 @@ title: Boots
 - Lexol
 
 # Bootmakers
+- Ariat
 - [Alden](http://www.aldenshoe.com/)
 - [Allen Edmonds](https://www.allenedmonds.com/)
 - [Chippewa](https://www.chippewaboots.com/)
@@ -44,16 +45,22 @@ title: Boots
 - [Crockett & Jones](https://www.crockettandjones.com/)
 - [Danner](https://www.danner.com/)
 - [Dayton](https://www.daytonboots.com/)
+- Double-H
+- [Frye](https://www.thefryecompany.com/)
 - [Helm](https://helmboots.com)
+- Justin
 - [L.L. Bean](https://www.llbean.com/)
+- Lucchese
 - [Mark Albert](https://markalbertboots.com)
 - [Nick's](https://nicksboots.com/)
+- Nocona
 - [Oak Street](https://oakstreetbootmakers.com/)
 - [Parkhurst](https://parkhurstbrand.com)
 - [Red Wing](https://www.redwingshoes.com/)
 - [Role Club](http://www.roleclub.com/)
 - [Thorogood](http://www.thorogoodworkboots.com/)
 - [Thursday](https://thursdayboots.com/)
+- Tony Lama
 - [Truman](https://trumanboot.com)
 - [Viberg](https://viberg.com/)
 - [Wesco](https://builder.wescoboots.com/)
