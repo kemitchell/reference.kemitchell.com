@@ -8,6 +8,7 @@ title: Boots
 
 # Insoles
 - [Texon](https://www.texon.com/)
+- [Spenco](https://spencofootwear.com)
 
 # Tanneries
 - [Chahin](https://www.chahinleather.com/about)
