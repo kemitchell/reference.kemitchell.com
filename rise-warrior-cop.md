@@ -1,5 +1,6 @@
 ---
-title: The Rise of the Warrior Cop
+title: Rise of the Warrior Cop
+subtitle: The Militarization of America's Police Forces
 people:
 - Radley Balko
 year: 2013
