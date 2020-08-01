@@ -7,3 +7,5 @@ title: Word Association Resources
 [Word Association Lookup](https://wordassociations.net/en/)
 
 [wordassociation.org](http://www.wordassociation.org/search/)
+
+[WordSafety](http://wordsafety.com/)
