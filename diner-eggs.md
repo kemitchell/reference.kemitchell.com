@@ -35,6 +35,10 @@ title: Diner Eggs
   </tr>
 </table>
 
+Variations:
+- cover and steam
+- baste with oil
+
 ## Broken
 
 - Scrambled
