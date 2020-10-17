@@ -2,289 +2,293 @@
 title: The Methods of Nonviolent Action
 ---
 
+From Gene Sharp's _From Dictatorship to Democracy_:
+
 # The Methods of Nonviolent Protest and Persuasion
 
 ## Formal statements
-1. Public speeches
-2. Letters of opposition or support
-3. Declarations by organizations and institutions
-4. Signed public statements
-5. Declarations of indictment and intention
-6. Group or mass petitions
+- Public speeches
+- Letters of opposition or support
+- Declarations by organizations and institutions
+- Signed public statements
+- Declarations of indictment and intention
+- Group or mass petitions
 
 ## Communications with a wider audience
-7. Slogans, caricatures, and symbols
-8. Banners, posters, and displayed communications
-9. Leaflets, pamphlets, and books
-10. Newspapers and journals
-11. Records, radio, and television
-12. Skywriting and earthwriting
+- Slogans, caricatures, and symbols
+- Banners, posters, and displayed communications
+- Leaflets, pamphlets, and books
+- Newspapers and journals
+- Records, radio, and television
+- Skywriting and earthwriting
 
 ## Group representations
-13. Deputations
-14. Mock awards
-15. Group lobbying
-16. Picketing
-17. Mock elections
+- Deputations
+- Mock awards
+- Group lobbying
+- Picketing
+- Mock elections
 
 ## Symbolic public acts
-18. Display of flags and symbolic colors
-19. Wearing of symbols
-20. Prayer and worship
-21. Delivering symbolic objects
-22. Protest disrobings
-23. Destruction of own property
-24. Symbolic lights
-25. Displays of portraits
-26. Paint as protest
-27. New signs and names
-28. Symbolic sounds
-29. Symbolic reclamations
-30. Rude gestures
+- Display of flags and symbolic colors
+- Wearing of symbols
+- Prayer and worship
+- Delivering symbolic objects
+- Protest disrobings
+- Destruction of own property
+- Symbolic lights
+- Displays of portraits
+- Paint as protest
+- New signs and names
+- Symbolic sounds
+- Symbolic reclamations
+- Rude gestures
 
 ## Pressures on individuals
-31. “Haunting” officials
-32. Taunting officials
-33. Fraternization
-34. Vigils
+- “Haunting” officials
+- Taunting officials
+- Fraternization
+- Vigils
 
 ## Drama and music
-35. Humorous skits and pranks
-36. Performance of plays and music
-37. Singing
+- Humorous skits and pranks
+- Performance of plays and music
+- Singing
 
 ## Processions
-38. Marches
-39. Parades
-40. Religious processions
-41. Pilgrimages
-42. Motorcades
+- Marches
+- Parades
+- Religious processions
+- Pilgrimages
+- Motorcades
 
 ## Honoring the dead
-43. Political mourning
-44. Mock funerals
-45. Demonstrative funerals
-46. Homage at burial places
+- Political mourning
+- Mock funerals
+- Demonstrative funerals
+- Homage at burial places
 
 ## Public assemblies
-47. Assemblies of protest or support
-48. Protest meetings
-49. Camouflaged meetings of protest
-50. Teach-ins
+- Assemblies of protest or support
+- Protest meetings
+- Camouflaged meetings of protest
+- Teach-ins
 
 ## Withdrawal and renunciation
-51. Walk-outs
-52. Silence
-53. Renouncing honors
-54. Turning one’s back
+- Walk-outs
+- Silence
+- Renouncing honors
+- Turning one’s back
 
-# THE METHODS OF SOCIAL NONCOOPERATION
+# The Methods of Social Noncooperation
 
 ## Ostracism of persons
-55. Social boycott
-56. Selective social boycott
-57. Lysistratic nonaction
-58. Excommunication
-59. Interdict
+- Social boycott
+- Selective social boycott
+- Lysistratic nonaction
+- Excommunication
+- Interdict
 
 ## Noncooperation with social events, customs, and institutions
-60. Suspension of social and sports activities
-61. Boycott of social affairs
-62. Student strike
-63. Social disobedience
-64. Withdrawal from social institutions
+- Suspension of social and sports activities
+- Boycott of social affairs
+- Student strike
+- Social disobedience
+- Withdrawal from social institutions
 
 ## Withdrawal from the social system
-65. Stay-at-home
-66. Total personal noncooperation
-67. Flight of workers
-68. Sanctuary
-69. Collective disappearance
-70. Protest emigration (hijrat)
+- Stay-at-home
+- Total personal noncooperation
+- Flight of workers
+- Sanctuary
+- Collective disappearance
+- Protest emigration (hijrat)
 
-# THE METHODS OF ECONOMIC NONCOOPERATION: (1) ECONOMIC BOYCOTTS
+# The Methods of Economic Noncooperation
 
-## Action by consumers
-71. Consumers’ boycott
-72. Nonconsumption of boycotted goods
-73. Policy of austerity
-74. Rent withholding
-75. Refusal to rent
-76. National consumers’ boycott
-77. International consumers’ boycott
+## Economic Boycotts
 
-## Action by workers and producers
-78. Workmen’s boycott
-79. Producers’ boycott
+### Action by consumers
+- Consumers’ boycott
+- Nonconsumption of boycotted goods
+- Policy of austerity
+- Rent withholding
+- Refusal to rent
+- National consumers’ boycott
+- International consumers’ boycott
 
-## Action by middlemen
-80. Suppliers’ and handlers’ boycott
+### Action by workers and producers
+- Workmen’s boycott
+- Producers’ boycott
 
-## Action by owners and management
-81. Traders’ boycott
-82. Refusal to let or sell property
-83. Lockout
-84. Refusal of industrial assistance
-85. Merchants’ “general strike”
+### Action by middlemen
+- Suppliers’ and handlers’ boycott
 
-## Action by holders of financial resources
-86. Withdrawal of bank deposits
-87. Refusal to pay fees, dues, and assessments
-88. Refusal to pay debts or interest
-89. Severance of funds and credit
-90. Revenue refusal
-91. Refusal of a government’s money
+### Action by owners and management
+- Traders’ boycott
+- Refusal to let or sell property
+- Lockout
+- Refusal of industrial assistance
+- Merchants’ “general strike”
 
-## Action by governments
-92. Domestic embargo
-93. Blacklisting of traders
-94. International sellers’ embargo
-95. International buyers’ embargo
-96. International trade embargo
+### Action by holders of financial resources
+- Withdrawal of bank deposits
+- Refusal to pay fees, dues, and assessments
+- Refusal to pay debts or interest
+- Severance of funds and credit
+- Revenue refusal
+- Refusal of a government’s money
 
-# THE METHODS OF ECONOMIC NONCOOPERATION: (2) THE STRIKE
+### Action by governments
+- Domestic embargo
+- Blacklisting of traders
+- International sellers’ embargo
+- International buyers’ embargo
+- International trade embargo
 
-## Symbolic strikes
-97. Protest strike
-98. Quickie walkout (lightning strike)
+## The Strike
 
-## Agricultural strikes
-99. Peasant strike
-100. Farm workers’ strike
+### Symbolic strikes
+- Protest strike
+- Quickie walkout (lightning strike)
 
-## Strikes by special groups
-101. Refusal of impressed labor
-102. Prisoners’ strike
-103. Craft strike
-104. Professional strike
+### Agricultural strikes
+- Peasant strike
+- Farm workers’ strike
 
-## Ordinary industrial strikes
-105. Establishment strike
-106. Industry strike
-107. Sympathetic strike
+### Strikes by special groups
+- Refusal of impressed labor
+- Prisoners’ strike
+- Craft strike
+- Professional strike
 
-## Restricted strikes
-108. Detailed strike
-109. Bumper strike
-110. Slowdown strike
-111. Working-to-rule strike
-112. Reporting “sick” (sick-in)
-113. Strike by resignation
-114. Limited strike
-115. Selective strike
+### Ordinary industrial strikes
+- Establishment strike
+- Industry strike
+- Sympathetic strike
 
-## Multi-industry strikes
-116. Generalized strike
-117. General strike
+### Restricted strikes
+- Detailed strike
+- Bumper strike
+- Slowdown strike
+- Working-to-rule strike
+- Reporting “sick” (sick-in)
+- Strike by resignation
+- Limited strike
+- Selective strike
 
-## Combinations of strikes and economic closures
-118. Hartal
-119. Economic shutdown
+### Multi-industry strikes
+- Generalized strike
+- General strike
 
-# THE METHODS OF POLITICAL NONCOOPERATION
+### Combinations of strikes and economic closures
+- Hartal
+- Economic shutdown
+
+# The Methods of Political Noncooperation
 
 ## Rejection of authority
-120. Withholding or withdrawal of allegiance
-121. Refusal of public support
-122. Literature and speeches advocating resistance
+- Withholding or withdrawal of allegiance
+- Refusal of public support
+- Literature and speeches advocating resistance
 
 ## Citizens’ noncooperation with government
-123. Boycott of legislative bodies
-124. Boycott of elections
-125. Boycott of government employment and positions
-126. Boycott of government departments, agencies and other bodies
-127. Withdrawal from government educational institutions
-128. Boycott of government-supported organizations
-129. Refusal of assistance to enforcement agents
-130. Removal of own signs and placemarks
-131. Refusal to accept appointed officials
-132. Refusal to dissolve existing institutions
+- Boycott of legislative bodies
+- Boycott of elections
+- Boycott of government employment and positions
+- Boycott of government departments, agencies and other bodies
+- Withdrawal from government educational institutions
+- Boycott of government-supported organizations
+- Refusal of assistance to enforcement agents
+- Removal of own signs and placemarks
+- Refusal to accept appointed officials
+- Refusal to dissolve existing institutions
 
 ## Citizens’ alternatives to obedience
-133. Reluctant and slow compliance
-134. Nonobedience in absence of direct supervision
-135. Popular nonobedience
-136. Disguised disobedience
-137. Refusal of an assemblage or meeting to disperse
-138. Sitdown
-139. Noncooperation with conscription and deportation
-140. Hiding, escape and false identities
-141. Civil disobedience of “illegitimate” laws
+- Reluctant and slow compliance
+- Nonobedience in absence of direct supervision
+- Popular nonobedience
+- Disguised disobedience
+- Refusal of an assemblage or meeting to disperse
+- Sitdown
+- Noncooperation with conscription and deportation
+- Hiding, escape and false identities
+- Civil disobedience of “illegitimate” laws
 
 ## Action by government personnel
-142. Selective refusal of assistance by government aides
-143. Blocking of lines of command and information
-144. Stalling and obstruction
-145. General administrative noncooperation
-146. Judicial noncooperation
-147. Deliberate inefficiency and selective noncooperation by enforcement agents
-148. Mutiny
+- Selective refusal of assistance by government aides
+- Blocking of lines of command and information
+- Stalling and obstruction
+- General administrative noncooperation
+- Judicial noncooperation
+- Deliberate inefficiency and selective noncooperation by enforcement agents
+- Mutiny
 
 ## Domestic governmental action
-149. Quasi-legal evasions and delays
-150. Noncooperation by constituent governmental units
+- Quasi-legal evasions and delays
+- Noncooperation by constituent governmental units
 
 ## International governmental action
-151. Changes in diplomatic and other representation
-152. Delay and cancellation of diplomatic events
-153. Withholding of diplomatic recognition
-154. Severance of diplomatic relations
-155. Withdrawal from international organizations
-156. Refusal of membership in international bodies
-157. Expulsion from international organizations
+- Changes in diplomatic and other representation
+- Delay and cancellation of diplomatic events
+- Withholding of diplomatic recognition
+- Severance of diplomatic relations
+- Withdrawal from international organizations
+- Refusal of membership in international bodies
+- Expulsion from international organizations
 
-# THE METHODS OF NONVIOLENT INTERVENTION
+# The Methods of Nonviolent Intervention
 
 ## Psychological intervention
-158. Self-exposure to the elements
-159. The fast
-     (a) Fast of moral pressure
-     (b) Hunger strike
-     (c) Satyagrahic fast
-160. Reverse trial
-161. Nonviolent harassment
+- Self-exposure to the elements
+- The fast
+  - Fast of moral pressure
+  - Hunger strike
+  - Satyagrahic fast
+- Reverse trial
+- Nonviolent harassment
 
 ## Physical intervention
-162. Sit-in
-163. Stand-in
-164. Ride-in
-165. Wade-in
-166. Mill-in
-167. Pray-in
-168. Nonviolent raids
-169. Nonviolent air raids
-170. Nonviolent invasion
-171. Nonviolent interjection
-172. Nonviolent obstruction
-173. Nonviolent occupation
+- Sit-in
+- Stand-in
+- Ride-in
+- Wade-in
+- Mill-in
+- Pray-in
+- Nonviolent raids
+- Nonviolent air raids
+- Nonviolent invasion
+- Nonviolent interjection
+- Nonviolent obstruction
+- Nonviolent occupation
 
 ## Social intervention
-174. Establishing new social patterns
-175. Overloading of facilities
-176. Stall-in
-177. Speak-in
-178. Guerrilla theater
-179. Alternative social institutions
-180. Alternative communication system
+- Establishing new social patterns
+- Overloading of facilities
+- Stall-in
+- Speak-in
+- Guerrilla theater
+- Alternative social institutions
+- Alternative communication system
 
 ## Economic intervention
-181. Reverse strike
-182. Stay-in strike
-183. Nonviolent land seizure
-184. Defiance of blockades
-185. Politically motivated counterfeiting
-186. Preclusive purchasing
-187. Seizure of assets
-188. Dumping
-189. Selective patronage
-190. Alternative markets
-191. Alternative transportation systems
-192. Alternative economic institutions
+- Reverse strike
+- Stay-in strike
+- Nonviolent land seizure
+- Defiance of blockades
+- Politically motivated counterfeiting
+- Preclusive purchasing
+- Seizure of assets
+- Dumping
+- Selective patronage
+- Alternative markets
+- Alternative transportation systems
+- Alternative economic institutions
 
 ## Political intervention
-193. Overloading of administrative systems
-194. Disclosing identities of secret agents
-195. Seeking imprisonment
-196. Civil disobedience of “neutral” laws
-197. Work-on without collaboration
-198. Dual sovereignty and parallel government
+- Overloading of administrative systems
+- Disclosing identities of secret agents
+- Seeking imprisonment
+- Civil disobedience of “neutral” laws
+- Work-on without collaboration
+- Dual sovereignty and parallel government
