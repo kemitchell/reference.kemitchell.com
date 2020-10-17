@@ -7,288 +7,288 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 # The Methods of Nonviolent Protest and Persuasion
 
 ## Formal statements
-- Public speeches
-- Letters of opposition or support
-- Declarations by organizations and institutions
-- Signed public statements
-- Declarations of indictment and intention
-- Group or mass petitions
+- public speeches
+- letters of opposition or support
+- declarations by organizations and institutions
+- signed public statements
+- declarations of indictment and intention
+- group or mass petitions
 
 ## Communications with a wider audience
-- Slogans, caricatures, and symbols
-- Banners, posters, and displayed communications
-- Leaflets, pamphlets, and books
-- Newspapers and journals
-- Records, radio, and television
-- Skywriting and earthwriting
+- slogans, caricatures, and symbols
+- banners, posters, and displayed communications
+- leaflets, pamphlets, and books
+- newspapers and journals
+- records, radio, and television
+- skywriting and earthwriting
 
 ## Group representations
-- Deputations
-- Mock awards
-- Group lobbying
-- Picketing
-- Mock elections
+- deputations
+- mock awards
+- group lobbying
+- picketing
+- mock elections
 
 ## Symbolic public acts
-- Display of flags and symbolic colors
-- Wearing of symbols
-- Prayer and worship
-- Delivering symbolic objects
-- Protest disrobings
-- Destruction of own property
-- Symbolic lights
-- Displays of portraits
-- Paint as protest
-- New signs and names
-- Symbolic sounds
-- Symbolic reclamations
-- Rude gestures
+- display of flags and symbolic colors
+- wearing of symbols
+- prayer and worship
+- delivering symbolic objects
+- protest disrobings
+- destruction of own property
+- symbolic lights
+- displays of portraits
+- paint as protest
+- new signs and names
+- symbolic sounds
+- symbolic reclamations
+- rude gestures
 
 ## Pressures on individuals
-- “Haunting” officials
-- Taunting officials
-- Fraternization
-- Vigils
+- “haunting” officials
+- taunting officials
+- fraternization
+- vigils
 
 ## Drama and music
-- Humorous skits and pranks
-- Performance of plays and music
-- Singing
+- humorous skits and pranks
+- performance of plays and music
+- singing
 
 ## Processions
-- Marches
-- Parades
-- Religious processions
-- Pilgrimages
-- Motorcades
+- marches
+- parades
+- religious processions
+- pilgrimages
+- motorcades
 
 ## Honoring the dead
-- Political mourning
-- Mock funerals
-- Demonstrative funerals
-- Homage at burial places
+- political mourning
+- mock funerals
+- demonstrative funerals
+- homage at burial places
 
 ## Public assemblies
-- Assemblies of protest or support
-- Protest meetings
-- Camouflaged meetings of protest
-- Teach-ins
+- assemblies of protest or support
+- protest meetings
+- camouflaged meetings of protest
+- teach-ins
 
 ## Withdrawal and renunciation
-- Walk-outs
-- Silence
-- Renouncing honors
-- Turning one’s back
+- walk-outs
+- silence
+- renouncing honors
+- turning one’s back
 
 # The Methods of Social Noncooperation
 
 ## Ostracism of persons
-- Social boycott
-- Selective social boycott
+- social boycott
+- selective social boycott
 - Lysistratic nonaction
-- Excommunication
-- Interdict
+- excommunication
+- interdict
 
 ## Noncooperation with social events, customs, and institutions
-- Suspension of social and sports activities
-- Boycott of social affairs
-- Student strike
-- Social disobedience
-- Withdrawal from social institutions
+- suspension of social and sports activities
+- boycott of social affairs
+- student strike
+- social disobedience
+- withdrawal from social institutions
 
 ## Withdrawal from the social system
-- Stay-at-home
-- Total personal noncooperation
-- Flight of workers
-- Sanctuary
-- Collective disappearance
-- Protest emigration (hijrat)
+- stay-at-home
+- total personal noncooperation
+- flight of workers
+- sanctuary
+- collective disappearance
+- protest emigration (hijrat)
 
 # The Methods of Economic Noncooperation
 
 ## Economic Boycotts
 
 ### Action by consumers
-- Consumers’ boycott
-- Nonconsumption of boycotted goods
-- Policy of austerity
-- Rent withholding
-- Refusal to rent
-- National consumers’ boycott
-- International consumers’ boycott
+- consumers’ boycott
+- nonconsumption of boycotted goods
+- policy of austerity
+- rent withholding
+- refusal to rent
+- national consumers’ boycott
+- international consumers’ boycott
 
 ### Action by workers and producers
-- Workmen’s boycott
-- Producers’ boycott
+- workmen’s boycott
+- producers’ boycott
 
 ### Action by middlemen
-- Suppliers’ and handlers’ boycott
+- suppliers’ and handlers’ boycott
 
 ### Action by owners and management
-- Traders’ boycott
-- Refusal to let or sell property
-- Lockout
-- Refusal of industrial assistance
-- Merchants’ “general strike”
+- traders’ boycott
+- refusal to let or sell property
+- lockout
+- refusal of industrial assistance
+- merchants’ “general strike”
 
 ### Action by holders of financial resources
-- Withdrawal of bank deposits
-- Refusal to pay fees, dues, and assessments
-- Refusal to pay debts or interest
-- Severance of funds and credit
-- Revenue refusal
-- Refusal of a government’s money
+- withdrawal of bank deposits
+- refusal to pay fees, dues, and assessments
+- refusal to pay debts or interest
+- severance of funds and credit
+- revenue refusal
+- refusal of a government’s money
 
 ### Action by governments
-- Domestic embargo
-- Blacklisting of traders
-- International sellers’ embargo
-- International buyers’ embargo
-- International trade embargo
+- domestic embargo
+- blacklisting of traders
+- international sellers’ embargo
+- international buyers’ embargo
+- international trade embargo
 
 ## The Strike
 
 ### Symbolic strikes
-- Protest strike
-- Quickie walkout (lightning strike)
+- protest strike
+- quickie walkout (lightning strike)
 
 ### Agricultural strikes
-- Peasant strike
-- Farm workers’ strike
+- peasant strike
+- farm workers’ strike
 
 ### Strikes by special groups
-- Refusal of impressed labor
-- Prisoners’ strike
-- Craft strike
-- Professional strike
+- refusal of impressed labor
+- prisoners’ strike
+- craft strike
+- professional strike
 
 ### Ordinary industrial strikes
-- Establishment strike
-- Industry strike
-- Sympathetic strike
+- establishment strike
+- industry strike
+- sympathetic strike
 
 ### Restricted strikes
-- Detailed strike
-- Bumper strike
-- Slowdown strike
-- Working-to-rule strike
-- Reporting “sick” (sick-in)
-- Strike by resignation
-- Limited strike
-- Selective strike
+- detailed strike
+- bumper strike
+- slowdown strike
+- working-to-rule strike
+- reporting “sick” (sick-in)
+- strike by resignation
+- limited strike
+- selective strike
 
 ### Multi-industry strikes
-- Generalized strike
-- General strike
+- generalized strike
+- general strike
 
 ### Combinations of strikes and economic closures
-- Hartal
-- Economic shutdown
+- hartal
+- economic shutdown
 
 # The Methods of Political Noncooperation
 
 ## Rejection of authority
-- Withholding or withdrawal of allegiance
-- Refusal of public support
-- Literature and speeches advocating resistance
+- withholding or withdrawal of allegiance
+- refusal of public support
+- literature and speeches advocating resistance
 
 ## Citizens’ noncooperation with government
-- Boycott of legislative bodies
-- Boycott of elections
-- Boycott of government employment and positions
-- Boycott of government departments, agencies and other bodies
-- Withdrawal from government educational institutions
-- Boycott of government-supported organizations
-- Refusal of assistance to enforcement agents
-- Removal of own signs and placemarks
-- Refusal to accept appointed officials
-- Refusal to dissolve existing institutions
+- boycott of legislative bodies
+- boycott of elections
+- boycott of government employment and positions
+- boycott of government departments, agencies and other bodies
+- withdrawal from government educational institutions
+- boycott of government-supported organizations
+- refusal of assistance to enforcement agents
+- removal of own signs and placemarks
+- refusal to accept appointed officials
+- refusal to dissolve existing institutions
 
 ## Citizens’ alternatives to obedience
-- Reluctant and slow compliance
-- Nonobedience in absence of direct supervision
-- Popular nonobedience
-- Disguised disobedience
-- Refusal of an assemblage or meeting to disperse
-- Sitdown
-- Noncooperation with conscription and deportation
-- Hiding, escape and false identities
-- Civil disobedience of “illegitimate” laws
+- reluctant and slow compliance
+- nonobedience in absence of direct supervision
+- popular nonobedience
+- disguised disobedience
+- refusal of an assemblage or meeting to disperse
+- sitdown
+- noncooperation with conscription and deportation
+- hiding, escape and false identities
+- civil disobedience of “illegitimate” laws
 
 ## Action by government personnel
-- Selective refusal of assistance by government aides
-- Blocking of lines of command and information
-- Stalling and obstruction
-- General administrative noncooperation
-- Judicial noncooperation
-- Deliberate inefficiency and selective noncooperation by enforcement agents
-- Mutiny
+- selective refusal of assistance by government aides
+- blocking of lines of command and information
+- stalling and obstruction
+- general administrative noncooperation
+- judicial noncooperation
+- deliberate inefficiency and selective noncooperation by enforcement agents
+- mutiny
 
 ## Domestic governmental action
-- Quasi-legal evasions and delays
-- Noncooperation by constituent governmental units
+- quasi-legal evasions and delays
+- noncooperation by constituent governmental units
 
 ## International governmental action
-- Changes in diplomatic and other representation
-- Delay and cancellation of diplomatic events
-- Withholding of diplomatic recognition
-- Severance of diplomatic relations
-- Withdrawal from international organizations
-- Refusal of membership in international bodies
-- Expulsion from international organizations
+- changes in diplomatic and other representation
+- delay and cancellation of diplomatic events
+- withholding of diplomatic recognition
+- severance of diplomatic relations
+- withdrawal from international organizations
+- refusal of membership in international bodies
+- expulsion from international organizations
 
 # The Methods of Nonviolent Intervention
 
 ## Psychological intervention
-- Self-exposure to the elements
-- The fast
-  - Fast of moral pressure
-  - Hunger strike
+- self-exposure to the elements
+- the fast
+  - fast of moral pressure
+  - hunger strike
   - Satyagrahic fast
-- Reverse trial
-- Nonviolent harassment
+- reverse trial
+- nonviolent harassment
 
 ## Physical intervention
-- Sit-in
-- Stand-in
-- Ride-in
-- Wade-in
-- Mill-in
-- Pray-in
-- Nonviolent raids
-- Nonviolent air raids
-- Nonviolent invasion
-- Nonviolent interjection
-- Nonviolent obstruction
-- Nonviolent occupation
+- sit-in
+- stand-in
+- ride-in
+- wade-in
+- mill-in
+- pray-in
+- nonviolent raids
+- nonviolent air raids
+- nonviolent invasion
+- nonviolent interjection
+- nonviolent obstruction
+- nonviolent occupation
 
 ## Social intervention
-- Establishing new social patterns
-- Overloading of facilities
-- Stall-in
-- Speak-in
-- Guerrilla theater
-- Alternative social institutions
-- Alternative communication system
+- establishing new social patterns
+- overloading of facilities
+- stall-in
+- speak-in
+- guerrilla theater
+- alternative social institutions
+- alternative communication system
 
 ## Economic intervention
-- Reverse strike
-- Stay-in strike
-- Nonviolent land seizure
-- Defiance of blockades
-- Politically motivated counterfeiting
-- Preclusive purchasing
-- Seizure of assets
-- Dumping
-- Selective patronage
-- Alternative markets
-- Alternative transportation systems
-- Alternative economic institutions
+- reverse strike
+- stay-in strike
+- nonviolent land seizure
+- defiance of blockades
+- politically motivated counterfeiting
+- preclusive purchasing
+- seizure of assets
+- dumping
+- selective patronage
+- alternative markets
+- alternative transportation systems
+- alternative economic institutions
 
 ## Political intervention
-- Overloading of administrative systems
-- Disclosing identities of secret agents
-- Seeking imprisonment
-- Civil disobedience of “neutral” laws
-- Work-on without collaboration
-- Dual sovereignty and parallel government
+- overloading of administrative systems
+- disclosing identities of secret agents
+- seeking imprisonment
+- civil disobedience of “neutral” laws
+- work-on without collaboration
+- dual sovereignty and parallel government
