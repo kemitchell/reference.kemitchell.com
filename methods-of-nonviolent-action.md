@@ -6,7 +6,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 
 # The Methods of Nonviolent Protest and Persuasion
 
-## Formal statements
+## Formal Statements
 - public speeches
 - letters of opposition or support
 - declarations by organizations and institutions
@@ -14,7 +14,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - declarations of indictment and intention
 - group or mass petitions
 
-## Communications with a wider audience
+## Communications with a Wider Audience
 - slogans, caricatures, and symbols
 - banners, posters, and displayed communications
 - leaflets, pamphlets, and books
@@ -22,14 +22,14 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - records, radio, and television
 - skywriting and earthwriting
 
-## Group representations
+## Group Representations
 - deputations
 - mock awards
 - group lobbying
 - picketing
 - mock elections
 
-## Symbolic public acts
+## Symbolic Public Acts
 - display of flags and symbolic colors
 - wearing of symbols
 - prayer and worship
@@ -44,13 +44,13 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - symbolic reclamations
 - rude gestures
 
-## Pressures on individuals
+## Pressures on Individuals
 - “haunting” officials
 - taunting officials
 - fraternization
 - vigils
 
-## Drama and music
+## Drama and Music
 - humorous skits and pranks
 - performance of plays and music
 - singing
@@ -62,19 +62,19 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - pilgrimages
 - motorcades
 
-## Honoring the dead
+## Honoring the Dead
 - political mourning
 - mock funerals
 - demonstrative funerals
 - homage at burial places
 
-## Public assemblies
+## Public Assemblies
 - assemblies of protest or support
 - protest meetings
 - camouflaged meetings of protest
 - teach-ins
 
-## Withdrawal and renunciation
+## Withdrawal and Renunciation
 - walk-outs
 - silence
 - renouncing honors
@@ -82,21 +82,21 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 
 # The Methods of Social Noncooperation
 
-## Ostracism of persons
+## Ostracism of Persons
 - social boycott
 - selective social boycott
 - Lysistratic nonaction
 - excommunication
 - interdict
 
-## Noncooperation with social events, customs, and institutions
+## Noncooperation with Social Events, Customs, and Institutions
 - suspension of social and sports activities
 - boycott of social affairs
 - student strike
 - social disobedience
 - withdrawal from social institutions
 
-## Withdrawal from the social system
+## Withdrawal from the Social System
 - stay-at-home
 - total personal noncooperation
 - flight of workers
@@ -108,7 +108,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 
 ## Economic Boycotts
 
-### Action by consumers
+### Action by Consumers
 - consumers’ boycott
 - nonconsumption of boycotted goods
 - policy of austerity
@@ -117,21 +117,21 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - national consumers’ boycott
 - international consumers’ boycott
 
-### Action by workers and producers
+### Action by Workers and Producers
 - workmen’s boycott
 - producers’ boycott
 
-### Action by middlemen
+### Action by Middlemen
 - suppliers’ and handlers’ boycott
 
-### Action by owners and management
+### Action by Owners and Management
 - traders’ boycott
 - refusal to let or sell property
 - lockout
 - refusal of industrial assistance
 - merchants’ “general strike”
 
-### Action by holders of financial resources
+### Action by Holders of Financial Resources
 - withdrawal of bank deposits
 - refusal to pay fees, dues, and assessments
 - refusal to pay debts or interest
@@ -139,7 +139,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - revenue refusal
 - refusal of a government’s money
 
-### Action by governments
+### Action by Governments
 - domestic embargo
 - blacklisting of traders
 - international sellers’ embargo
@@ -148,26 +148,26 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 
 ## The Strike
 
-### Symbolic strikes
+### Symbolic Strikes
 - protest strike
 - quickie walkout (lightning strike)
 
-### Agricultural strikes
+### Agricultural Strikes
 - peasant strike
 - farm workers’ strike
 
-### Strikes by special groups
+### Strikes by Special Groups
 - refusal of impressed labor
 - prisoners’ strike
 - craft strike
 - professional strike
 
-### Ordinary industrial strikes
+### Ordinary Industrial Strikes
 - establishment strike
 - industry strike
 - sympathetic strike
 
-### Restricted strikes
+### Restricted Strikes
 - detailed strike
 - bumper strike
 - slowdown strike
@@ -177,22 +177,22 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - limited strike
 - selective strike
 
-### Multi-industry strikes
+### Multi-Industry Strikes
 - generalized strike
 - general strike
 
-### Combinations of strikes and economic closures
-- hartal
+### Combinations of Strikes and Economic Closures
+- Hartal
 - economic shutdown
 
 # The Methods of Political Noncooperation
 
-## Rejection of authority
+## Rejection of Authority
 - withholding or withdrawal of allegiance
 - refusal of public support
 - literature and speeches advocating resistance
 
-## Citizens’ noncooperation with government
+## Citizens’ Noncooperation with Government
 - boycott of legislative bodies
 - boycott of elections
 - boycott of government employment and positions
@@ -204,7 +204,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - refusal to accept appointed officials
 - refusal to dissolve existing institutions
 
-## Citizens’ alternatives to obedience
+## Citizens’ Alternatives to Obedience
 - reluctant and slow compliance
 - nonobedience in absence of direct supervision
 - popular nonobedience
@@ -215,7 +215,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - hiding, escape and false identities
 - civil disobedience of “illegitimate” laws
 
-## Action by government personnel
+## Action by Government Personnel
 - selective refusal of assistance by government aides
 - blocking of lines of command and information
 - stalling and obstruction
@@ -224,11 +224,11 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - deliberate inefficiency and selective noncooperation by enforcement agents
 - mutiny
 
-## Domestic governmental action
+## Domestic Governmental Action
 - quasi-legal evasions and delays
 - noncooperation by constituent governmental units
 
-## International governmental action
+## International Governmental Action
 - changes in diplomatic and other representation
 - delay and cancellation of diplomatic events
 - withholding of diplomatic recognition
@@ -239,7 +239,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 
 # The Methods of Nonviolent Intervention
 
-## Psychological intervention
+## Psychological Intervention
 - self-exposure to the elements
 - the fast
   - fast of moral pressure
@@ -248,7 +248,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - reverse trial
 - nonviolent harassment
 
-## Physical intervention
+## Physical Intervention
 - sit-in
 - stand-in
 - ride-in
@@ -262,7 +262,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - nonviolent obstruction
 - nonviolent occupation
 
-## Social intervention
+## Social Intervention
 - establishing new social patterns
 - overloading of facilities
 - stall-in
@@ -271,7 +271,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - alternative social institutions
 - alternative communication system
 
-## Economic intervention
+## Economic Intervention
 - reverse strike
 - stay-in strike
 - nonviolent land seizure
@@ -285,7 +285,7 @@ From Gene Sharp's _From Dictatorship to Democracy_:
 - alternative transportation systems
 - alternative economic institutions
 
-## Political intervention
+## Political Intervention
 - overloading of administrative systems
 - disclosing identities of secret agents
 - seeking imprisonment
