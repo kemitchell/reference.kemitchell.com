@@ -10,3 +10,4 @@ title: Gardner's Multiple Intelligences
 - interpersonal
 - intrapersonal
 - naturalist
+- (existential)
